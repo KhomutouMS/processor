@@ -23,8 +23,8 @@ applicable agreement for further details.
 VECTOR("d:/alerta/quartus/kursach/db/kursach.sim.cvwf")
 {
 	ZOOM{
-		ZBEGIN = 371105;
-		ZEND = 996105;
+		ZBEGIN = 0;
+		ZEND = 625000;
 		NUMERATOR = 1112;
 		DENOMINATOR = 625000;
 		TOP_INDEX = 0;
@@ -1898,10 +1898,10 @@ VECTOR("d:/alerta/quartus/kursach/db/kursach.sim.cvwf")
 VECTOR("D:/alerta/quartus/kursach/kursach.vwf")
 {
 	ZOOM{
-		ZBEGIN = 491958;
-		ZEND = 1009558;
+		ZBEGIN = 4445326;
+		ZEND = 5070326;
 		NUMERATOR = 1294;
-		DENOMINATOR = 517600;
+		DENOMINATOR = 625000;
 		TOP_INDEX = 0;
 	}
 	CLOCK{
