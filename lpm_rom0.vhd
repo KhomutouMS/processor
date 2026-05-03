@@ -42,17 +42,17 @@ USE altera_mf.all;
 ENTITY lpm_rom0 IS
 	PORT
 	(
-		address		: IN STD_LOGIC_VECTOR (7 DOWNTO 0);
+		address		: IN STD_LOGIC_VECTOR (9 DOWNTO 0);
 		inclock		: IN STD_LOGIC ;
 		outclock		: IN STD_LOGIC ;
-		q		: OUT STD_LOGIC_VECTOR (7 DOWNTO 0)
+		q		: OUT STD_LOGIC_VECTOR (31 DOWNTO 0)
 	);
 END lpm_rom0;
 
 
 ARCHITECTURE SYN OF lpm_rom0 IS
 
-	SIGNAL sub_wire0	: STD_LOGIC_VECTOR (7 DOWNTO 0);
+	SIGNAL sub_wire0	: STD_LOGIC_VECTOR (31 DOWNTO 0);
 
 
 
@@ -74,27 +74,27 @@ ARCHITECTURE SYN OF lpm_rom0 IS
 	PORT (
 			clock0	: IN STD_LOGIC ;
 			clock1	: IN STD_LOGIC ;
-			address_a	: IN STD_LOGIC_VECTOR (7 DOWNTO 0);
-			q_a	: OUT STD_LOGIC_VECTOR (7 DOWNTO 0)
+			address_a	: IN STD_LOGIC_VECTOR (9 DOWNTO 0);
+			q_a	: OUT STD_LOGIC_VECTOR (31 DOWNTO 0)
 	);
 	END COMPONENT;
 
 BEGIN
-	q    <= sub_wire0(7 DOWNTO 0);
+	q    <= sub_wire0(31 DOWNTO 0);
 
 	altsyncram_component : altsyncram
 	GENERIC MAP (
 		clock_enable_input_a => "BYPASS",
 		clock_enable_output_a => "BYPASS",
-		init_file => "D:/alerta/quartus/kursach/222.mif",
+		init_file => "../kursach/rom.hex",
 		intended_device_family => "Stratix II",
 		lpm_type => "altsyncram",
-		numwords_a => 256,
+		numwords_a => 1024,
 		operation_mode => "ROM",
 		outdata_aclr_a => "NONE",
 		outdata_reg_a => "CLOCK1",
-		widthad_a => 8,
-		width_a => 8,
+		widthad_a => 10,
+		width_a => 32,
 		width_byteena_a => 1
 	)
 	PORT MAP (
@@ -128,35 +128,35 @@ END SYN;
 -- Retrieval info: PRIVATE: JTAG_ENABLED NUMERIC "0"
 -- Retrieval info: PRIVATE: JTAG_ID STRING "NONE"
 -- Retrieval info: PRIVATE: MAXIMUM_DEPTH NUMERIC "0"
--- Retrieval info: PRIVATE: MIFfilename STRING "D:/alerta/quartus/kursach/222.mif"
--- Retrieval info: PRIVATE: NUMWORDS_A NUMERIC "256"
+-- Retrieval info: PRIVATE: MIFfilename STRING "../kursach/rom.hex"
+-- Retrieval info: PRIVATE: NUMWORDS_A NUMERIC "1024"
 -- Retrieval info: PRIVATE: RAM_BLOCK_TYPE NUMERIC "0"
 -- Retrieval info: PRIVATE: RegAddr NUMERIC "1"
 -- Retrieval info: PRIVATE: RegOutput NUMERIC "1"
 -- Retrieval info: PRIVATE: SYNTH_WRAPPER_GEN_POSTFIX STRING "0"
 -- Retrieval info: PRIVATE: SingleClock NUMERIC "0"
 -- Retrieval info: PRIVATE: UseDQRAM NUMERIC "0"
--- Retrieval info: PRIVATE: WidthAddr NUMERIC "8"
--- Retrieval info: PRIVATE: WidthData NUMERIC "8"
+-- Retrieval info: PRIVATE: WidthAddr NUMERIC "10"
+-- Retrieval info: PRIVATE: WidthData NUMERIC "32"
 -- Retrieval info: PRIVATE: rden NUMERIC "0"
 -- Retrieval info: CONSTANT: CLOCK_ENABLE_INPUT_A STRING "BYPASS"
 -- Retrieval info: CONSTANT: CLOCK_ENABLE_OUTPUT_A STRING "BYPASS"
--- Retrieval info: CONSTANT: INIT_FILE STRING "D:/alerta/quartus/kursach/222.mif"
+-- Retrieval info: CONSTANT: INIT_FILE STRING "../kursach/rom.hex"
 -- Retrieval info: CONSTANT: INTENDED_DEVICE_FAMILY STRING "Stratix II"
 -- Retrieval info: CONSTANT: LPM_TYPE STRING "altsyncram"
--- Retrieval info: CONSTANT: NUMWORDS_A NUMERIC "256"
+-- Retrieval info: CONSTANT: NUMWORDS_A NUMERIC "1024"
 -- Retrieval info: CONSTANT: OPERATION_MODE STRING "ROM"
 -- Retrieval info: CONSTANT: OUTDATA_ACLR_A STRING "NONE"
 -- Retrieval info: CONSTANT: OUTDATA_REG_A STRING "CLOCK1"
--- Retrieval info: CONSTANT: WIDTHAD_A NUMERIC "8"
--- Retrieval info: CONSTANT: WIDTH_A NUMERIC "8"
+-- Retrieval info: CONSTANT: WIDTHAD_A NUMERIC "10"
+-- Retrieval info: CONSTANT: WIDTH_A NUMERIC "32"
 -- Retrieval info: CONSTANT: WIDTH_BYTEENA_A NUMERIC "1"
--- Retrieval info: USED_PORT: address 0 0 8 0 INPUT NODEFVAL address[7..0]
+-- Retrieval info: USED_PORT: address 0 0 10 0 INPUT NODEFVAL address[9..0]
 -- Retrieval info: USED_PORT: inclock 0 0 0 0 INPUT NODEFVAL inclock
 -- Retrieval info: USED_PORT: outclock 0 0 0 0 INPUT NODEFVAL outclock
--- Retrieval info: USED_PORT: q 0 0 8 0 OUTPUT NODEFVAL q[7..0]
--- Retrieval info: CONNECT: @address_a 0 0 8 0 address 0 0 8 0
--- Retrieval info: CONNECT: q 0 0 8 0 @q_a 0 0 8 0
+-- Retrieval info: USED_PORT: q 0 0 32 0 OUTPUT NODEFVAL q[31..0]
+-- Retrieval info: CONNECT: @address_a 0 0 10 0 address 0 0 10 0
+-- Retrieval info: CONNECT: q 0 0 32 0 @q_a 0 0 32 0
 -- Retrieval info: CONNECT: @clock0 0 0 0 0 inclock 0 0 0 0
 -- Retrieval info: CONNECT: @clock1 0 0 0 0 outclock 0 0 0 0
 -- Retrieval info: LIBRARY: altera_mf altera_mf.altera_mf_components.all

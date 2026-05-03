@@ -15,11 +15,11 @@
 
 FUNCTION lpm_rom0 
 (
-	address[7..0],
+	address[9..0],
 	inclock,
 	outclock
 )
 
 RETURNS (
-	q[7..0]
+	q[31..0]
 );

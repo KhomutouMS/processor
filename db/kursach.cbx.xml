@@ -3,58 +3,111 @@
 	<PROJECT NAME="kursach">
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst247|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst283|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst152|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst35|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst71|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst798|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst322|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst941|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_constant0:inst16|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_nf6.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst162|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst243|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst898|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|lpm_ram_dq0:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_56f1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_compare0:inst36|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_cig.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst825|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst136|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst217|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_compare0:inst19|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_cig.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst12|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst709|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst227|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst263|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst308|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst380|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst336|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst990|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst733|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst182|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst13|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst165|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst33|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst510|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst388|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst874|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst617|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst833|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst914|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst949|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst156|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst642|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst758|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst93|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst717|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst87|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst221|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst266|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst35|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_counter0:inst39|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_sej.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst178|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst394|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst682|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst267|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst216|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst312|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst60|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst782|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst268|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst136|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst190|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst217|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_compare0:inst36|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_cig.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst279|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst666|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst137|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst191|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_compare0:inst19|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_cig.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst12|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst201|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst289|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst273|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst327|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst354|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst381|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst408|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst13|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst965|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|lpm_rom0:inst1|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_uf71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst274|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst328|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst355|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst382|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst409|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|lpm_rom0:inst1|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_h861.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst849|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst103|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst509|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst182|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst949|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst156|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst642|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst93|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst321|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst79|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst152|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_constant0:inst16|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_nf6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|lpm_ram_dq0:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_56f1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst136|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst217|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst531|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_counter2:inst247|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_4gj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst300|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst478|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst532|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst301|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst40|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst479|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst336|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst990|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst733|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst219|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst471|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst874|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst617|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst833|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst914|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst139|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst193|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst472|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst758|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst717|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst87|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst80|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst221|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst178|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst394|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst375|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_constant0:inst16|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_nf6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst162|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst60|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst376|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst163|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst244|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst279|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst245|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 	</PROJECT>
 </LOG_ROOT>
