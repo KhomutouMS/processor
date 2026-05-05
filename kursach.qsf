@@ -82,3 +82,12 @@ set_global_assignment -name QIP_FILE lpm_counter3.qip
 set_global_assignment -name QIP_FILE lpm_decode1.qip
 set_global_assignment -name BDF_FILE konveer.bdf
 set_global_assignment -name QIP_FILE lpm_bustri6.qip
+set_global_assignment -name QIP_FILE lpm_dff3.qip
+set_global_assignment -name QIP_FILE lpm_dff4.qip
+set_global_assignment -name QIP_FILE lpm_compare1.qip
+set_global_assignment -name QIP_FILE lpm_xor0.qip
+set_global_assignment -name QIP_FILE lpm_constant1.qip
+set_global_assignment -name QIP_FILE lpm_mult0.qip
+set_global_assignment -name QIP_FILE lpm_constant2.qip
+set_global_assignment -name QIP_FILE lpm_clshift0.qip
+set_global_assignment -name QIP_FILE lpm_add_sub2.qip
