@@ -1076,6 +1076,55 @@ cash:inst8|lpm_bustri0:inst929
 cash:inst8|lpm_bustri0:inst980
 lpm_bustri0:inst5
 lpm_bustri0:inst6
+konveer:inst12|lpm_bustri0:inst116
+konveer:inst12|lpm_bustri0:inst104
+konveer:inst12|lpm_bustri0:inst165
+konveer:inst12|lpm_bustri0:inst103
+konveer:inst12|lpm_bustri0:inst164
+konveer:inst12|lpm_bustri0:inst135
+konveer:inst12|lpm_bustri0:inst74
+konveer:inst12|lpm_bustri0:inst82
+konveer:inst12|lpm_bustri0:inst83
+konveer:inst12|lpm_bustri0:inst84
+konveer:inst12|lpm_bustri0:inst85
+konveer:inst12|lpm_bustri0:inst86
+konveer:inst12|lpm_bustri0:inst87
+konveer:inst12|lpm_bustri0:inst88
+konveer:inst12|lpm_bustri0:inst89
+konveer:inst12|lpm_bustri0:inst75
+konveer:inst12|lpm_bustri0:inst76
+konveer:inst12|lpm_bustri0:inst77
+konveer:inst12|lpm_bustri0:inst78
+konveer:inst12|lpm_bustri0:inst79
+konveer:inst12|lpm_bustri0:inst80
+konveer:inst12|lpm_bustri0:inst81
+konveer:inst12|lpm_bustri0:inst111
+konveer:inst12|lpm_bustri0:inst105
+konveer:inst12|lpm_bustri0:inst169
+konveer:inst12|lpm_bustri0:inst128
+konveer:inst12|lpm_bustri0:inst126
+konveer:inst12|lpm_bustri0:inst131
+konveer:inst12|lpm_bustri0:inst130
+konveer:inst12|lpm_bustri0:inst1
+konveer:inst12|lpm_bustri0:inst20
+konveer:inst12|lpm_bustri0:inst21
+konveer:inst12|lpm_bustri0:inst22
+konveer:inst12|lpm_bustri0:inst23
+konveer:inst12|lpm_bustri0:inst24
+konveer:inst12|lpm_bustri0:inst19
+konveer:inst12|lpm_bustri0:inst18
+konveer:inst12|lpm_bustri0:inst26
+konveer:inst12|lpm_bustri0:inst27
+konveer:inst12|lpm_bustri0:inst25
+konveer:inst12|lpm_bustri0:inst28
+konveer:inst12|lpm_bustri0:inst29
+konveer:inst12|lpm_bustri0:inst30
+konveer:inst12|lpm_bustri0:inst31
+konveer:inst12|lpm_bustri0:inst32
+konveer:inst12|lpm_bustri0:inst115
+konveer:inst12|lpm_bustri0:inst117
+konveer:inst12|lpm_bustri0:inst118
+konveer:inst12|lpm_bustri0:inst119
 }
 # lmf
 |alerta|quartus|lmf|maxplus2.lmf
@@ -1301,6 +1350,55 @@ cash:inst8|lpm_bustri0:inst929|lpm_bustri:lpm_bustri_component
 cash:inst8|lpm_bustri0:inst980|lpm_bustri:lpm_bustri_component
 lpm_bustri0:inst5|lpm_bustri:lpm_bustri_component
 lpm_bustri0:inst6|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst116|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst104|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst165|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst103|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst164|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst135|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst74|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst82|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst83|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst84|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst85|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst86|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst87|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst88|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst89|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst75|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst76|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst77|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst78|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst79|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst80|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst81|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst111|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst105|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst169|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst128|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst126|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst131|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst130|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst1|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst20|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst21|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst22|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst23|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst24|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst19|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst18|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst26|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst27|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst25|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst28|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst29|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst30|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst31|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst32|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst115|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst117|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst118|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst119|lpm_bustri:lpm_bustri_component
 }
 # macro_sequence
 
@@ -1942,6 +2040,18 @@ cash_com:inst10|lpm_bustri1:inst188
 cash_com:inst10|lpm_bustri1:inst246
 cash_com:inst10|lpm_bustri1:inst241
 cash_com:inst10|lpm_bustri1:inst242
+cash_com:inst10|lpm_bustri1:inst302
+cash_com:inst10|lpm_bustri1:inst297
+cash_com:inst10|lpm_bustri1:inst298
+cash_com:inst10|lpm_bustri1:inst356
+cash_com:inst10|lpm_bustri1:inst351
+cash_com:inst10|lpm_bustri1:inst352
+cash_com:inst10|lpm_bustri1:inst437
+cash_com:inst10|lpm_bustri1:inst405
+cash_com:inst10|lpm_bustri1:inst406
+cash_com:inst10|lpm_bustri1:inst511
+cash_com:inst10|lpm_bustri1:inst505
+cash_com:inst10|lpm_bustri1:inst506
 cash_com:inst10|lpm_bustri1:inst41
 cash_com:inst10|lpm_bustri1:inst1
 cash_com:inst10|lpm_bustri1:inst17
@@ -1954,6 +2064,18 @@ cash_com:inst10|lpm_bustri1:inst160
 cash_com:inst10|lpm_bustri1:inst218
 cash_com:inst10|lpm_bustri1:inst213
 cash_com:inst10|lpm_bustri1:inst214
+cash_com:inst10|lpm_bustri1:inst275
+cash_com:inst10|lpm_bustri1:inst270
+cash_com:inst10|lpm_bustri1:inst271
+cash_com:inst10|lpm_bustri1:inst329
+cash_com:inst10|lpm_bustri1:inst324
+cash_com:inst10|lpm_bustri1:inst325
+cash_com:inst10|lpm_bustri1:inst383
+cash_com:inst10|lpm_bustri1:inst378
+cash_com:inst10|lpm_bustri1:inst379
+cash_com:inst10|lpm_bustri1:inst480
+cash_com:inst10|lpm_bustri1:inst474
+cash_com:inst10|lpm_bustri1:inst475
 }
 # lmf
 |alerta|quartus|lmf|maxplus2.lmf
@@ -2075,6 +2197,18 @@ cash_com:inst10|lpm_bustri1:inst188|lpm_bustri:lpm_bustri_component
 cash_com:inst10|lpm_bustri1:inst246|lpm_bustri:lpm_bustri_component
 cash_com:inst10|lpm_bustri1:inst241|lpm_bustri:lpm_bustri_component
 cash_com:inst10|lpm_bustri1:inst242|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst302|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst297|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst298|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst356|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst351|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst352|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst437|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst405|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst406|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst511|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst505|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst506|lpm_bustri:lpm_bustri_component
 cash_com:inst10|lpm_bustri1:inst41|lpm_bustri:lpm_bustri_component
 cash_com:inst10|lpm_bustri1:inst1|lpm_bustri:lpm_bustri_component
 cash_com:inst10|lpm_bustri1:inst17|lpm_bustri:lpm_bustri_component
@@ -2087,6 +2221,18 @@ cash_com:inst10|lpm_bustri1:inst160|lpm_bustri:lpm_bustri_component
 cash_com:inst10|lpm_bustri1:inst218|lpm_bustri:lpm_bustri_component
 cash_com:inst10|lpm_bustri1:inst213|lpm_bustri:lpm_bustri_component
 cash_com:inst10|lpm_bustri1:inst214|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst275|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst270|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst271|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst329|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst324|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst325|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst383|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst378|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst379|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst480|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst474|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri1:inst475|lpm_bustri:lpm_bustri_component
 }
 # macro_sequence
 
@@ -2166,6 +2312,22 @@ cash_com:inst10|lpm_decode0:inst217
 cash_com:inst10|lpm_decode0:inst216
 cash_com:inst10|lpm_decode0:inst245
 cash_com:inst10|lpm_decode0:inst244
+cash_com:inst10|lpm_decode0:inst274
+cash_com:inst10|lpm_decode0:inst273
+cash_com:inst10|lpm_decode0:inst301
+cash_com:inst10|lpm_decode0:inst300
+cash_com:inst10|lpm_decode0:inst328
+cash_com:inst10|lpm_decode0:inst327
+cash_com:inst10|lpm_decode0:inst355
+cash_com:inst10|lpm_decode0:inst354
+cash_com:inst10|lpm_decode0:inst382
+cash_com:inst10|lpm_decode0:inst381
+cash_com:inst10|lpm_decode0:inst409
+cash_com:inst10|lpm_decode0:inst408
+cash_com:inst10|lpm_decode0:inst479
+cash_com:inst10|lpm_decode0:inst478
+cash_com:inst10|lpm_decode0:inst510
+cash_com:inst10|lpm_decode0:inst509
 }
 # lmf
 |alerta|quartus|lmf|maxplus2.lmf
@@ -2314,6 +2476,22 @@ cash_com:inst10|lpm_decode0:inst217|lpm_decode:lpm_decode_component
 cash_com:inst10|lpm_decode0:inst216|lpm_decode:lpm_decode_component
 cash_com:inst10|lpm_decode0:inst245|lpm_decode:lpm_decode_component
 cash_com:inst10|lpm_decode0:inst244|lpm_decode:lpm_decode_component
+cash_com:inst10|lpm_decode0:inst274|lpm_decode:lpm_decode_component
+cash_com:inst10|lpm_decode0:inst273|lpm_decode:lpm_decode_component
+cash_com:inst10|lpm_decode0:inst301|lpm_decode:lpm_decode_component
+cash_com:inst10|lpm_decode0:inst300|lpm_decode:lpm_decode_component
+cash_com:inst10|lpm_decode0:inst328|lpm_decode:lpm_decode_component
+cash_com:inst10|lpm_decode0:inst327|lpm_decode:lpm_decode_component
+cash_com:inst10|lpm_decode0:inst355|lpm_decode:lpm_decode_component
+cash_com:inst10|lpm_decode0:inst354|lpm_decode:lpm_decode_component
+cash_com:inst10|lpm_decode0:inst382|lpm_decode:lpm_decode_component
+cash_com:inst10|lpm_decode0:inst381|lpm_decode:lpm_decode_component
+cash_com:inst10|lpm_decode0:inst409|lpm_decode:lpm_decode_component
+cash_com:inst10|lpm_decode0:inst408|lpm_decode:lpm_decode_component
+cash_com:inst10|lpm_decode0:inst479|lpm_decode:lpm_decode_component
+cash_com:inst10|lpm_decode0:inst478|lpm_decode:lpm_decode_component
+cash_com:inst10|lpm_decode0:inst510|lpm_decode:lpm_decode_component
+cash_com:inst10|lpm_decode0:inst509|lpm_decode:lpm_decode_component
 }
 # macro_sequence
 
@@ -2417,6 +2595,22 @@ cash_com:inst10|lpm_decode0:inst217|lpm_decode:lpm_decode_component|decode_5sf:a
 cash_com:inst10|lpm_decode0:inst216|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
 cash_com:inst10|lpm_decode0:inst245|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
 cash_com:inst10|lpm_decode0:inst244|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
+cash_com:inst10|lpm_decode0:inst274|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
+cash_com:inst10|lpm_decode0:inst273|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
+cash_com:inst10|lpm_decode0:inst301|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
+cash_com:inst10|lpm_decode0:inst300|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
+cash_com:inst10|lpm_decode0:inst328|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
+cash_com:inst10|lpm_decode0:inst327|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
+cash_com:inst10|lpm_decode0:inst355|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
+cash_com:inst10|lpm_decode0:inst354|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
+cash_com:inst10|lpm_decode0:inst382|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
+cash_com:inst10|lpm_decode0:inst381|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
+cash_com:inst10|lpm_decode0:inst409|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
+cash_com:inst10|lpm_decode0:inst408|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
+cash_com:inst10|lpm_decode0:inst479|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
+cash_com:inst10|lpm_decode0:inst478|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
+cash_com:inst10|lpm_decode0:inst510|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
+cash_com:inst10|lpm_decode0:inst509|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
 }
 # macro_sequence
 
@@ -2466,10 +2660,22 @@ cash_com:inst10|lpm_dff1:inst29
 cash_com:inst10|lpm_dff1:inst131
 cash_com:inst10|lpm_dff1:inst186
 cash_com:inst10|lpm_dff1:inst240
+cash_com:inst10|lpm_dff1:inst296
+cash_com:inst10|lpm_dff1:inst350
+cash_com:inst10|lpm_dff1:inst404
+cash_com:inst10|lpm_dff1:inst504
 cash_com:inst10|lpm_dff1:inst14
 cash_com:inst10|lpm_dff1:inst37
 cash_com:inst10|lpm_dff1:inst158
 cash_com:inst10|lpm_dff1:inst212
+cash_com:inst10|lpm_dff1:inst269
+cash_com:inst10|lpm_dff1:inst323
+cash_com:inst10|lpm_dff1:inst377
+cash_com:inst10|lpm_dff1:inst473
+konveer:inst12|lpm_dff1:inst57
+konveer:inst12|lpm_dff1:inst49
+konveer:inst12|lpm_dff1:inst102
+konveer:inst12|lpm_dff1:inst58
 }
 # lmf
 |alerta|quartus|lmf|maxplus2.lmf
@@ -2588,10 +2794,22 @@ cash_com:inst10|lpm_dff1:inst29|lpm_ff:lpm_ff_component
 cash_com:inst10|lpm_dff1:inst131|lpm_ff:lpm_ff_component
 cash_com:inst10|lpm_dff1:inst186|lpm_ff:lpm_ff_component
 cash_com:inst10|lpm_dff1:inst240|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff1:inst296|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff1:inst350|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff1:inst404|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff1:inst504|lpm_ff:lpm_ff_component
 cash_com:inst10|lpm_dff1:inst14|lpm_ff:lpm_ff_component
 cash_com:inst10|lpm_dff1:inst37|lpm_ff:lpm_ff_component
 cash_com:inst10|lpm_dff1:inst158|lpm_ff:lpm_ff_component
 cash_com:inst10|lpm_dff1:inst212|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff1:inst269|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff1:inst323|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff1:inst377|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff1:inst473|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff1:inst57|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff1:inst49|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff1:inst102|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff1:inst58|lpm_ff:lpm_ff_component
 }
 # macro_sequence
 
@@ -2700,6 +2918,9 @@ clock
 -1
 3
 }
+# hierarchies {
+cash_com:inst10|lpm_counter2:inst247|lpm_counter:lpm_counter_component
+}
 # macro_sequence
 
 # end
@@ -2732,6 +2953,9 @@ cout
 clock
 -1
 3
+}
+# hierarchies {
+cash_com:inst10|lpm_counter2:inst247|lpm_counter:lpm_counter_component|cntr_4gj:auto_generated
 }
 # macro_sequence
 
@@ -2777,7 +3001,7 @@ aeb
 }
 # hierarchies {
 cash:inst8|lpm_counter0:inst39|lpm_counter:lpm_counter_component|cntr_sej:auto_generated|cmpr_adc:cmpr2
-cash_com:inst10|lpm_counter0:inst39|lpm_counter:lpm_counter_component|cntr_sej:auto_generated|cmpr_adc:cmpr2
+cash_com:inst10|lpm_counter2:inst247|lpm_counter:lpm_counter_component|cntr_4gj:auto_generated|cmpr_adc:cmpr2
 }
 # macro_sequence
 
@@ -3225,6 +3449,27 @@ cash:inst8|lpm_dff0:inst953
 cash:inst8|lpm_dff0:inst954
 cash:inst8|lpm_dff0:inst955
 cash:inst8|lpm_dff0:inst956
+konveer:inst12|lpm_dff0:inst120
+konveer:inst12|lpm_dff0:inst99
+konveer:inst12|lpm_dff0:inst127
+konveer:inst12|lpm_dff0:inst
+konveer:inst12|lpm_dff0:inst9
+konveer:inst12|lpm_dff0:inst10
+konveer:inst12|lpm_dff0:inst11
+konveer:inst12|lpm_dff0:inst12
+konveer:inst12|lpm_dff0:inst13
+konveer:inst12|lpm_dff0:inst14
+konveer:inst12|lpm_dff0:inst15
+konveer:inst12|lpm_dff0:inst16
+konveer:inst12|lpm_dff0:inst2
+konveer:inst12|lpm_dff0:inst3
+konveer:inst12|lpm_dff0:inst4
+konveer:inst12|lpm_dff0:inst5
+konveer:inst12|lpm_dff0:inst6
+konveer:inst12|lpm_dff0:inst7
+konveer:inst12|lpm_dff0:inst8
+konveer:inst12|lpm_dff0:inst100
+konveer:inst12|lpm_dff0:inst50
 }
 # lmf
 |alerta|quartus|lmf|maxplus2.lmf
@@ -3469,6 +3714,27 @@ cash:inst8|lpm_dff0:inst953|lpm_ff:lpm_ff_component
 cash:inst8|lpm_dff0:inst954|lpm_ff:lpm_ff_component
 cash:inst8|lpm_dff0:inst955|lpm_ff:lpm_ff_component
 cash:inst8|lpm_dff0:inst956|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst120|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst99|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst127|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst9|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst10|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst11|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst12|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst13|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst14|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst15|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst16|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst2|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst3|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst4|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst5|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst6|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst7|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst8|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst100|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst50|lpm_ff:lpm_ff_component
 }
 # macro_sequence
 
@@ -3590,6 +3856,24 @@ datab1
 -1
 2
 }
+# hierarchies {
+cash_com:inst10|lpm_add_sub0:inst266|lpm_add_sub:lpm_add_sub_component
+cash_com:inst10|lpm_add_sub0:inst139|lpm_add_sub:lpm_add_sub_component
+cash_com:inst10|lpm_add_sub0:inst267|lpm_add_sub:lpm_add_sub_component
+cash_com:inst10|lpm_add_sub0:inst103|lpm_add_sub:lpm_add_sub_component
+cash_com:inst10|lpm_add_sub0:inst165|lpm_add_sub:lpm_add_sub_component
+cash_com:inst10|lpm_add_sub0:inst193|lpm_add_sub:lpm_add_sub_component
+cash_com:inst10|lpm_add_sub0:inst268|lpm_add_sub:lpm_add_sub_component
+cash_com:inst10|lpm_add_sub0:inst219|lpm_add_sub:lpm_add_sub_component
+cash_com:inst10|lpm_add_sub0:inst321|lpm_add_sub:lpm_add_sub_component
+cash_com:inst10|lpm_add_sub0:inst322|lpm_add_sub:lpm_add_sub_component
+cash_com:inst10|lpm_add_sub0:inst375|lpm_add_sub:lpm_add_sub_component
+cash_com:inst10|lpm_add_sub0:inst376|lpm_add_sub:lpm_add_sub_component
+cash_com:inst10|lpm_add_sub0:inst471|lpm_add_sub:lpm_add_sub_component
+cash_com:inst10|lpm_add_sub0:inst472|lpm_add_sub:lpm_add_sub_component
+cash_com:inst10|lpm_add_sub0:inst531|lpm_add_sub:lpm_add_sub_component
+cash_com:inst10|lpm_add_sub0:inst532|lpm_add_sub:lpm_add_sub_component
+}
 # macro_sequence
 
 # end
@@ -3649,14 +3933,22 @@ cash:inst8|lpm_add_sub1:inst825|lpm_add_sub:lpm_add_sub_component|add_sub_uph:au
 cash:inst8|lpm_add_sub1:inst874|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
 cash:inst8|lpm_add_sub1:inst941|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
 cash:inst8|lpm_add_sub1:inst990|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
-cash_com:inst10|lpm_add_sub1:inst60|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
-cash_com:inst10|lpm_add_sub1:inst62|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
-cash_com:inst10|lpm_add_sub1:inst82|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
-cash_com:inst10|lpm_add_sub1:inst139|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
-cash_com:inst10|lpm_add_sub1:inst165|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
-cash_com:inst10|lpm_add_sub1:inst193|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
-cash_com:inst10|lpm_add_sub1:inst219|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
-cash_com:inst10|lpm_add_sub1:inst247|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
+cash_com:inst10|lpm_add_sub0:inst266|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
+cash_com:inst10|lpm_add_sub0:inst139|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
+cash_com:inst10|lpm_add_sub0:inst267|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
+cash_com:inst10|lpm_add_sub0:inst103|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
+cash_com:inst10|lpm_add_sub0:inst165|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
+cash_com:inst10|lpm_add_sub0:inst193|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
+cash_com:inst10|lpm_add_sub0:inst268|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
+cash_com:inst10|lpm_add_sub0:inst219|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
+cash_com:inst10|lpm_add_sub0:inst321|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
+cash_com:inst10|lpm_add_sub0:inst322|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
+cash_com:inst10|lpm_add_sub0:inst375|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
+cash_com:inst10|lpm_add_sub0:inst376|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
+cash_com:inst10|lpm_add_sub0:inst471|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
+cash_com:inst10|lpm_add_sub0:inst472|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
+cash_com:inst10|lpm_add_sub0:inst531|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
+cash_com:inst10|lpm_add_sub0:inst532|lpm_add_sub:lpm_add_sub_component|add_sub_uph:auto_generated
 }
 # macro_sequence
 
@@ -3702,14 +3994,6 @@ cash:inst8|lpm_add_sub1:inst825
 cash:inst8|lpm_add_sub1:inst874
 cash:inst8|lpm_add_sub1:inst941
 cash:inst8|lpm_add_sub1:inst990
-cash_com:inst10|lpm_add_sub1:inst60
-cash_com:inst10|lpm_add_sub1:inst62
-cash_com:inst10|lpm_add_sub1:inst82
-cash_com:inst10|lpm_add_sub1:inst139
-cash_com:inst10|lpm_add_sub1:inst165
-cash_com:inst10|lpm_add_sub1:inst193
-cash_com:inst10|lpm_add_sub1:inst219
-cash_com:inst10|lpm_add_sub1:inst247
 }
 # lmf
 |alerta|quartus|lmf|maxplus2.lmf
@@ -3851,14 +4135,6 @@ cash:inst8|lpm_add_sub1:inst825|lpm_add_sub:lpm_add_sub_component
 cash:inst8|lpm_add_sub1:inst874|lpm_add_sub:lpm_add_sub_component
 cash:inst8|lpm_add_sub1:inst941|lpm_add_sub:lpm_add_sub_component
 cash:inst8|lpm_add_sub1:inst990|lpm_add_sub:lpm_add_sub_component
-cash_com:inst10|lpm_add_sub1:inst60|lpm_add_sub:lpm_add_sub_component
-cash_com:inst10|lpm_add_sub1:inst62|lpm_add_sub:lpm_add_sub_component
-cash_com:inst10|lpm_add_sub1:inst82|lpm_add_sub:lpm_add_sub_component
-cash_com:inst10|lpm_add_sub1:inst139|lpm_add_sub:lpm_add_sub_component
-cash_com:inst10|lpm_add_sub1:inst165|lpm_add_sub:lpm_add_sub_component
-cash_com:inst10|lpm_add_sub1:inst193|lpm_add_sub:lpm_add_sub_component
-cash_com:inst10|lpm_add_sub1:inst219|lpm_add_sub:lpm_add_sub_component
-cash_com:inst10|lpm_add_sub1:inst247|lpm_add_sub:lpm_add_sub_component
 }
 # macro_sequence
 
@@ -4226,7 +4502,6 @@ ON
 }
 # hierarchies {
 cash:inst8|lpm_counter0:inst39
-cash_com:inst10|lpm_counter0:inst39
 }
 # lmf
 |alerta|quartus|lmf|maxplus2.lmf
@@ -4340,7 +4615,6 @@ clock
 }
 # hierarchies {
 cash:inst8|lpm_counter0:inst39|lpm_counter:lpm_counter_component
-cash_com:inst10|lpm_counter0:inst39|lpm_counter:lpm_counter_component
 }
 # macro_sequence
 
@@ -4377,27 +4651,6 @@ clock
 }
 # hierarchies {
 cash:inst8|lpm_counter0:inst39|lpm_counter:lpm_counter_component|cntr_sej:auto_generated
-cash_com:inst10|lpm_counter0:inst39|lpm_counter:lpm_counter_component|cntr_sej:auto_generated
-}
-# macro_sequence
-
-# end
-# entity
-kursach
-# storage
-db|kursach.(0).cnf
-db|kursach.(0).cnf
-# case_insensitive
-# source_file
-kursach.bdf
-38afc3f46a254482e8b49d51b3afd14
-26
-# internal_option {
-BLOCK_DESIGN_NAMING
-AUTO
-}
-# hierarchies {
-|
 }
 # macro_sequence
 
@@ -4697,6 +4950,70 @@ cash_com:inst10|lpm_bustri5:inst260
 cash_com:inst10|lpm_bustri5:inst261
 cash_com:inst10|lpm_bustri5:inst262
 cash_com:inst10|lpm_bustri5:inst263
+cash_com:inst10|lpm_bustri5:inst286
+cash_com:inst10|lpm_bustri5:inst287
+cash_com:inst10|lpm_bustri5:inst288
+cash_com:inst10|lpm_bustri5:inst289
+cash_com:inst10|lpm_bustri5:inst290
+cash_com:inst10|lpm_bustri5:inst291
+cash_com:inst10|lpm_bustri5:inst292
+cash_com:inst10|lpm_bustri5:inst293
+cash_com:inst10|lpm_bustri5:inst311
+cash_com:inst10|lpm_bustri5:inst312
+cash_com:inst10|lpm_bustri5:inst313
+cash_com:inst10|lpm_bustri5:inst314
+cash_com:inst10|lpm_bustri5:inst315
+cash_com:inst10|lpm_bustri5:inst316
+cash_com:inst10|lpm_bustri5:inst317
+cash_com:inst10|lpm_bustri5:inst318
+cash_com:inst10|lpm_bustri5:inst340
+cash_com:inst10|lpm_bustri5:inst341
+cash_com:inst10|lpm_bustri5:inst342
+cash_com:inst10|lpm_bustri5:inst343
+cash_com:inst10|lpm_bustri5:inst344
+cash_com:inst10|lpm_bustri5:inst345
+cash_com:inst10|lpm_bustri5:inst346
+cash_com:inst10|lpm_bustri5:inst347
+cash_com:inst10|lpm_bustri5:inst365
+cash_com:inst10|lpm_bustri5:inst366
+cash_com:inst10|lpm_bustri5:inst367
+cash_com:inst10|lpm_bustri5:inst368
+cash_com:inst10|lpm_bustri5:inst369
+cash_com:inst10|lpm_bustri5:inst370
+cash_com:inst10|lpm_bustri5:inst371
+cash_com:inst10|lpm_bustri5:inst372
+cash_com:inst10|lpm_bustri5:inst394
+cash_com:inst10|lpm_bustri5:inst395
+cash_com:inst10|lpm_bustri5:inst396
+cash_com:inst10|lpm_bustri5:inst397
+cash_com:inst10|lpm_bustri5:inst398
+cash_com:inst10|lpm_bustri5:inst399
+cash_com:inst10|lpm_bustri5:inst400
+cash_com:inst10|lpm_bustri5:inst401
+cash_com:inst10|lpm_bustri5:inst461
+cash_com:inst10|lpm_bustri5:inst462
+cash_com:inst10|lpm_bustri5:inst463
+cash_com:inst10|lpm_bustri5:inst464
+cash_com:inst10|lpm_bustri5:inst465
+cash_com:inst10|lpm_bustri5:inst466
+cash_com:inst10|lpm_bustri5:inst467
+cash_com:inst10|lpm_bustri5:inst468
+cash_com:inst10|lpm_bustri5:inst494
+cash_com:inst10|lpm_bustri5:inst495
+cash_com:inst10|lpm_bustri5:inst496
+cash_com:inst10|lpm_bustri5:inst497
+cash_com:inst10|lpm_bustri5:inst498
+cash_com:inst10|lpm_bustri5:inst499
+cash_com:inst10|lpm_bustri5:inst500
+cash_com:inst10|lpm_bustri5:inst501
+cash_com:inst10|lpm_bustri5:inst521
+cash_com:inst10|lpm_bustri5:inst522
+cash_com:inst10|lpm_bustri5:inst523
+cash_com:inst10|lpm_bustri5:inst524
+cash_com:inst10|lpm_bustri5:inst525
+cash_com:inst10|lpm_bustri5:inst526
+cash_com:inst10|lpm_bustri5:inst527
+cash_com:inst10|lpm_bustri5:inst528
 }
 # lmf
 |alerta|quartus|lmf|maxplus2.lmf
@@ -4982,6 +5299,70 @@ cash_com:inst10|lpm_bustri5:inst260|lpm_bustri:lpm_bustri_component
 cash_com:inst10|lpm_bustri5:inst261|lpm_bustri:lpm_bustri_component
 cash_com:inst10|lpm_bustri5:inst262|lpm_bustri:lpm_bustri_component
 cash_com:inst10|lpm_bustri5:inst263|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst286|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst287|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst288|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst289|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst290|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst291|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst292|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst293|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst311|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst312|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst313|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst314|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst315|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst316|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst317|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst318|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst340|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst341|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst342|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst343|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst344|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst345|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst346|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst347|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst365|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst366|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst367|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst368|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst369|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst370|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst371|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst372|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst394|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst395|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst396|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst397|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst398|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst399|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst400|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst401|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst461|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst462|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst463|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst464|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst465|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst466|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst467|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst468|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst494|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst495|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst496|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst497|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst498|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst499|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst500|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst501|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst521|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst522|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst523|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst524|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst525|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst526|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst527|lpm_bustri:lpm_bustri_component
+cash_com:inst10|lpm_bustri5:inst528|lpm_bustri:lpm_bustri_component
 }
 # macro_sequence
 
@@ -5075,6 +5456,71 @@ cash_com:inst10|lpm_dff2:inst251
 cash_com:inst10|lpm_dff2:inst250
 cash_com:inst10|lpm_dff2:inst249
 cash_com:inst10|lpm_dff2:inst248
+cash_com:inst10|lpm_dff2:inst285
+cash_com:inst10|lpm_dff2:inst284
+cash_com:inst10|lpm_dff2:inst283
+cash_com:inst10|lpm_dff2:inst282
+cash_com:inst10|lpm_dff2:inst281
+cash_com:inst10|lpm_dff2:inst280
+cash_com:inst10|lpm_dff2:inst279
+cash_com:inst10|lpm_dff2:inst278
+cash_com:inst10|lpm_dff2:inst310
+cash_com:inst10|lpm_dff2:inst309
+cash_com:inst10|lpm_dff2:inst308
+cash_com:inst10|lpm_dff2:inst307
+cash_com:inst10|lpm_dff2:inst306
+cash_com:inst10|lpm_dff2:inst305
+cash_com:inst10|lpm_dff2:inst304
+cash_com:inst10|lpm_dff2:inst303
+cash_com:inst10|lpm_dff2:inst339
+cash_com:inst10|lpm_dff2:inst338
+cash_com:inst10|lpm_dff2:inst337
+cash_com:inst10|lpm_dff2:inst336
+cash_com:inst10|lpm_dff2:inst335
+cash_com:inst10|lpm_dff2:inst334
+cash_com:inst10|lpm_dff2:inst333
+cash_com:inst10|lpm_dff2:inst332
+cash_com:inst10|lpm_dff2:inst364
+cash_com:inst10|lpm_dff2:inst363
+cash_com:inst10|lpm_dff2:inst362
+cash_com:inst10|lpm_dff2:inst361
+cash_com:inst10|lpm_dff2:inst360
+cash_com:inst10|lpm_dff2:inst359
+cash_com:inst10|lpm_dff2:inst358
+cash_com:inst10|lpm_dff2:inst357
+cash_com:inst10|lpm_dff2:inst393
+cash_com:inst10|lpm_dff2:inst392
+cash_com:inst10|lpm_dff2:inst391
+cash_com:inst10|lpm_dff2:inst390
+cash_com:inst10|lpm_dff2:inst389
+cash_com:inst10|lpm_dff2:inst388
+cash_com:inst10|lpm_dff2:inst387
+cash_com:inst10|lpm_dff2:inst386
+cash_com:inst10|lpm_dff2:inst460
+cash_com:inst10|lpm_dff2:inst459
+cash_com:inst10|lpm_dff2:inst458
+cash_com:inst10|lpm_dff2:inst457
+cash_com:inst10|lpm_dff2:inst456
+cash_com:inst10|lpm_dff2:inst441
+cash_com:inst10|lpm_dff2:inst440
+cash_com:inst10|lpm_dff2:inst439
+cash_com:inst10|lpm_dff2:inst493
+cash_com:inst10|lpm_dff2:inst492
+cash_com:inst10|lpm_dff2:inst491
+cash_com:inst10|lpm_dff2:inst490
+cash_com:inst10|lpm_dff2:inst489
+cash_com:inst10|lpm_dff2:inst488
+cash_com:inst10|lpm_dff2:inst487
+cash_com:inst10|lpm_dff2:inst486
+cash_com:inst10|lpm_dff2:inst520
+cash_com:inst10|lpm_dff2:inst519
+cash_com:inst10|lpm_dff2:inst518
+cash_com:inst10|lpm_dff2:inst517
+cash_com:inst10|lpm_dff2:inst516
+cash_com:inst10|lpm_dff2:inst515
+cash_com:inst10|lpm_dff2:inst514
+cash_com:inst10|lpm_dff2:inst513
+konveer:inst12|lpm_dff2:Instruction_Register
 }
 # lmf
 |alerta|quartus|lmf|maxplus2.lmf
@@ -5399,6 +5845,71 @@ cash_com:inst10|lpm_dff2:inst251|lpm_ff:lpm_ff_component
 cash_com:inst10|lpm_dff2:inst250|lpm_ff:lpm_ff_component
 cash_com:inst10|lpm_dff2:inst249|lpm_ff:lpm_ff_component
 cash_com:inst10|lpm_dff2:inst248|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst285|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst284|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst283|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst282|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst281|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst280|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst279|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst278|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst310|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst309|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst308|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst307|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst306|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst305|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst304|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst303|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst339|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst338|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst337|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst336|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst335|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst334|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst333|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst332|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst364|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst363|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst362|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst361|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst360|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst359|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst358|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst357|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst393|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst392|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst391|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst390|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst389|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst388|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst387|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst386|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst460|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst459|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst458|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst457|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst456|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst441|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst440|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst439|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst493|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst492|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst491|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst490|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst489|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst488|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst487|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst486|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst520|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst519|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst518|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst517|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst516|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst515|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst514|lpm_ff:lpm_ff_component
+cash_com:inst10|lpm_dff2:inst513|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff2:Instruction_Register|lpm_ff:lpm_ff_component
 }
 # macro_sequence
 
@@ -5789,10 +6300,111 @@ lpm_rom0:inst1|altsyncram:altsyncram_component
 
 # end
 # entity
-altsyncram_h861
+cash_com
+# storage
+db|kursach.(44).cnf
+db|kursach.(44).cnf
+# case_insensitive
+# source_file
+cash_com.bdf
+71cd8fd2c5c839c7437299329652887c
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+cash_com:inst10
+}
+# macro_sequence
+
+# end
+# entity
+lpm_counter2
 # storage
 db|kursach.(51).cnf
 db|kursach.(51).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+lpm_counter2.vhd
+30f96756a2f9cb4398e6cdd0fa8f61f3
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+cash_com:inst10|lpm_counter2:inst247
+}
+# lmf
+|alerta|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+lpm_add_sub0
+# storage
+db|kursach.(52).cnf
+db|kursach.(52).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+lpm_add_sub0.vhd
+ef7e3467a45bf0cb11f7def245bfa42
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+cash_com:inst10|lpm_add_sub0:inst266
+cash_com:inst10|lpm_add_sub0:inst139
+cash_com:inst10|lpm_add_sub0:inst267
+cash_com:inst10|lpm_add_sub0:inst103
+cash_com:inst10|lpm_add_sub0:inst165
+cash_com:inst10|lpm_add_sub0:inst193
+cash_com:inst10|lpm_add_sub0:inst268
+cash_com:inst10|lpm_add_sub0:inst219
+cash_com:inst10|lpm_add_sub0:inst321
+cash_com:inst10|lpm_add_sub0:inst322
+cash_com:inst10|lpm_add_sub0:inst375
+cash_com:inst10|lpm_add_sub0:inst376
+cash_com:inst10|lpm_add_sub0:inst471
+cash_com:inst10|lpm_add_sub0:inst472
+cash_com:inst10|lpm_add_sub0:inst531
+cash_com:inst10|lpm_add_sub0:inst532
+}
+# lmf
+|alerta|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+altsyncram_h861
+# storage
+db|kursach.(53).cnf
+db|kursach.(53).cnf
 # case_insensitive
 # source_file
 db|altsyncram_h861.tdf
@@ -5934,7 +6546,7 @@ address_a0
 }
 # memory_file {
 rom.hex
-165697d5e18286b72d7110119cc2f9e3
+81228210b61980adaf41967a65cf9f3
 }
 # hierarchies {
 lpm_rom0:inst1|altsyncram:altsyncram_component|altsyncram_h861:auto_generated
@@ -5943,21 +6555,2404 @@ lpm_rom0:inst1|altsyncram:altsyncram_component|altsyncram_h861:auto_generated
 
 # end
 # entity
-cash_com
+lpm_dff3
 # storage
-db|kursach.(44).cnf
-db|kursach.(44).cnf
+db|kursach.(55).cnf
+db|kursach.(55).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
 # case_insensitive
 # source_file
-cash_com.bdf
-d7962cfeb29971e12ff0ccaeb964
+lpm_dff3.vhd
+433cb25ce64161b5b66b93d809b8c15
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+konveer:inst12|lpm_dff3:inst121
+konveer:inst12|lpm_dff3:inst51
+}
+# lmf
+|alerta|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+lpm_ff
+# storage
+db|kursach.(56).cnf
+db|kursach.(56).cnf
+# case_insensitive
+# source_file
+|alerta|quartus|libraries|megafunctions|lpm_ff.tdf
+46b042d3fd5eb2f17a9dfd3891afd1a
+7
+# user_parameter {
+LPM_WIDTH
+10
+PARAMETER_SIGNED_DEC
+USR
+LPM_AVALUE
+UNUSED
+PARAMETER_UNKNOWN
+DEF
+LPM_SVALUE
+UNUSED
+PARAMETER_UNKNOWN
+DEF
+LPM_FFTYPE
+DFF
+PARAMETER_UNKNOWN
+USR
+DEVICE_FAMILY
+Stratix II
+PARAMETER_UNKNOWN
+USR
+CBXI_PARAMETER
+NOTHING
+PARAMETER_UNKNOWN
+DEF
+AUTO_CARRY_CHAINS
+ON
+AUTO_CARRY
+USR
+IGNORE_CARRY_BUFFERS
+OFF
+IGNORE_CARRY
+USR
+AUTO_CASCADE_CHAINS
+ON
+AUTO_CASCADE
+USR
+IGNORE_CASCADE_BUFFERS
+OFF
+IGNORE_CASCADE
+USR
+}
+# used_port {
+q9
+-1
+3
+q8
+-1
+3
+q7
+-1
+3
+q6
+-1
+3
+q5
+-1
+3
+q4
+-1
+3
+q3
+-1
+3
+q2
+-1
+3
+q1
+-1
+3
+q0
+-1
+3
+enable
+-1
+3
+data9
+-1
+3
+data8
+-1
+3
+data7
+-1
+3
+data6
+-1
+3
+data5
+-1
+3
+data4
+-1
+3
+data3
+-1
+3
+data2
+-1
+3
+data1
+-1
+3
+data0
+-1
+3
+clock
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_dff3:inst121|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff3:inst51|lpm_ff:lpm_ff_component
+}
+# macro_sequence
+
+# end
+# entity
+lpm_decode2
+# storage
+db|kursach.(57).cnf
+db|kursach.(57).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+lpm_decode2.vhd
+30dbe8c7c6323c6b9cc363eb839725
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+konveer:inst12|lpm_decode2:inst136
+konveer:inst12|lpm_decode2:inst153
+}
+# lmf
+|alerta|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+lpm_decode
+# storage
+db|kursach.(58).cnf
+db|kursach.(58).cnf
+# case_insensitive
+# source_file
+|alerta|quartus|libraries|megafunctions|lpm_decode.tdf
+bfce37ee9af3768dda7316c867798b
+7
+# user_parameter {
+LPM_WIDTH
+5
+PARAMETER_SIGNED_DEC
+USR
+LPM_DECODES
+32
+PARAMETER_SIGNED_DEC
+USR
+LPM_PIPELINE
+0
+PARAMETER_UNKNOWN
+DEF
+CASCADE_CHAIN
+MANUAL
+PARAMETER_UNKNOWN
+USR
+DEVICE_FAMILY
+Stratix II
+PARAMETER_UNKNOWN
+USR
+CBXI_PARAMETER
+decode_ktf
+PARAMETER_UNKNOWN
+USR
+AUTO_CARRY_CHAINS
+ON
+AUTO_CARRY
+USR
+IGNORE_CARRY_BUFFERS
+OFF
+IGNORE_CARRY
+USR
+AUTO_CASCADE_CHAINS
+ON
+AUTO_CASCADE
+USR
+IGNORE_CASCADE_BUFFERS
+OFF
+IGNORE_CASCADE
+USR
+}
+# used_port {
+eq9
+-1
+3
+eq8
+-1
+3
+eq7
+-1
+3
+eq6
+-1
+3
+eq5
+-1
+3
+eq4
+-1
+3
+eq31
+-1
+3
+eq30
+-1
+3
+eq3
+-1
+3
+eq29
+-1
+3
+eq28
+-1
+3
+eq27
+-1
+3
+eq26
+-1
+3
+eq25
+-1
+3
+eq24
+-1
+3
+eq23
+-1
+3
+eq22
+-1
+3
+eq21
+-1
+3
+eq20
+-1
+3
+eq2
+-1
+3
+eq19
+-1
+3
+eq18
+-1
+3
+eq17
+-1
+3
+eq16
+-1
+3
+eq15
+-1
+3
+eq14
+-1
+3
+eq13
+-1
+3
+eq12
+-1
+3
+eq11
+-1
+3
+eq10
+-1
+3
+eq1
+-1
+3
+eq0
+-1
+3
+enable
+-1
+3
+data4
+-1
+3
+data3
+-1
+3
+data2
+-1
+3
+data1
+-1
+3
+data0
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_decode2:inst136|lpm_decode:lpm_decode_component
+konveer:inst12|lpm_decode2:inst153|lpm_decode:lpm_decode_component
+}
+# macro_sequence
+
+# end
+# entity
+decode_ktf
+# storage
+db|kursach.(59).cnf
+db|kursach.(59).cnf
+# case_insensitive
+# source_file
+db|decode_ktf.tdf
+424bcdcd771c78af9d90d4367a6462fa
+7
+# used_port {
+eq9
+-1
+3
+eq8
+-1
+3
+eq7
+-1
+3
+eq6
+-1
+3
+eq5
+-1
+3
+eq4
+-1
+3
+eq31
+-1
+3
+eq30
+-1
+3
+eq3
+-1
+3
+eq29
+-1
+3
+eq28
+-1
+3
+eq27
+-1
+3
+eq26
+-1
+3
+eq25
+-1
+3
+eq24
+-1
+3
+eq23
+-1
+3
+eq22
+-1
+3
+eq21
+-1
+3
+eq20
+-1
+3
+eq2
+-1
+3
+eq19
+-1
+3
+eq18
+-1
+3
+eq17
+-1
+3
+eq16
+-1
+3
+eq15
+-1
+3
+eq14
+-1
+3
+eq13
+-1
+3
+eq12
+-1
+3
+eq11
+-1
+3
+eq10
+-1
+3
+eq1
+-1
+3
+eq0
+-1
+3
+enable
+-1
+3
+data4
+-1
+3
+data3
+-1
+3
+data2
+-1
+3
+data1
+-1
+3
+data0
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_decode2:inst136|lpm_decode:lpm_decode_component|decode_ktf:auto_generated
+konveer:inst12|lpm_decode2:inst153|lpm_decode:lpm_decode_component|decode_ktf:auto_generated
+}
+# macro_sequence
+
+# end
+# entity
+lpm_add_sub2
+# storage
+db|kursach.(60).cnf
+db|kursach.(60).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+lpm_add_sub2.vhd
+7681b2f857d4b3b69ddb3acb93e275fd
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+konveer:inst12|lpm_add_sub2:inst114
+}
+# lmf
+|alerta|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+lpm_add_sub
+# storage
+db|kursach.(61).cnf
+db|kursach.(61).cnf
+# case_insensitive
+# source_file
+|alerta|quartus|libraries|megafunctions|lpm_add_sub.tdf
+48629daa7d9afedc175e3e79ef6f21
+7
+# user_parameter {
+LPM_WIDTH
+8
+PARAMETER_SIGNED_DEC
+USR
+LPM_REPRESENTATION
+UNSIGNED
+PARAMETER_UNKNOWN
+USR
+LPM_DIRECTION
+ADD
+PARAMETER_UNKNOWN
+USR
+ONE_INPUT_IS_CONSTANT
+NO
+PARAMETER_UNKNOWN
+USR
+LPM_PIPELINE
+0
+PARAMETER_UNKNOWN
+DEF
+MAXIMIZE_SPEED
+5
+PARAMETER_UNKNOWN
+DEF
+REGISTERED_AT_END
+0
+PARAMETER_UNKNOWN
+DEF
+OPTIMIZE_FOR_SPEED
+5
+PARAMETER_UNKNOWN
+USR
+USE_CS_BUFFERS
+1
+PARAMETER_UNKNOWN
+DEF
+CARRY_CHAIN
+MANUAL
+PARAMETER_UNKNOWN
+USR
+CARRY_CHAIN_LENGTH
+48
+CARRY_CHAIN_LENGTH
+USR
+DEVICE_FAMILY
+Stratix II
+PARAMETER_UNKNOWN
+USR
+USE_WYS
+OFF
+PARAMETER_UNKNOWN
+DEF
+STYLE
+FAST
+PARAMETER_UNKNOWN
+USR
+CBXI_PARAMETER
+add_sub_elh
+PARAMETER_UNKNOWN
+USR
+AUTO_CARRY_CHAINS
+ON
+AUTO_CARRY
+USR
+IGNORE_CARRY_BUFFERS
+OFF
+IGNORE_CARRY
+USR
+AUTO_CASCADE_CHAINS
+ON
+AUTO_CASCADE
+USR
+IGNORE_CASCADE_BUFFERS
+OFF
+IGNORE_CASCADE
+USR
+}
+# used_port {
+result7
+-1
+3
+result6
+-1
+3
+result5
+-1
+3
+result4
+-1
+3
+result3
+-1
+3
+result2
+-1
+3
+result1
+-1
+3
+result0
+-1
+3
+datab7
+-1
+3
+datab6
+-1
+3
+datab5
+-1
+3
+datab4
+-1
+3
+datab3
+-1
+3
+datab2
+-1
+3
+datab1
+-1
+3
+datab0
+-1
+3
+dataa7
+-1
+3
+dataa6
+-1
+3
+dataa5
+-1
+3
+dataa4
+-1
+3
+dataa3
+-1
+3
+dataa2
+-1
+3
+dataa1
+-1
+3
+dataa0
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_add_sub2:inst114|lpm_add_sub:lpm_add_sub_component
+}
+# macro_sequence
+
+# end
+# entity
+add_sub_elh
+# storage
+db|kursach.(62).cnf
+db|kursach.(62).cnf
+# case_insensitive
+# source_file
+db|add_sub_elh.tdf
+d7f7321c3b914ebd5f3080d9f7a9e1a7
+7
+# used_port {
+result7
+-1
+3
+result6
+-1
+3
+result5
+-1
+3
+result4
+-1
+3
+result3
+-1
+3
+result2
+-1
+3
+result1
+-1
+3
+result0
+-1
+3
+datab7
+-1
+3
+datab6
+-1
+3
+datab5
+-1
+3
+datab4
+-1
+3
+datab3
+-1
+3
+datab2
+-1
+3
+datab1
+-1
+3
+datab0
+-1
+3
+dataa7
+-1
+3
+dataa6
+-1
+3
+dataa5
+-1
+3
+dataa4
+-1
+3
+dataa3
+-1
+3
+dataa2
+-1
+3
+dataa1
+-1
+3
+dataa0
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_add_sub2:inst114|lpm_add_sub:lpm_add_sub_component|add_sub_elh:auto_generated
+}
+# macro_sequence
+
+# end
+# entity
+lpm_compare2
+# storage
+db|kursach.(63).cnf
+db|kursach.(63).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+lpm_compare2.vhd
+aba71eabe59fc201b2b12db0f769e9
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+konveer:inst12|lpm_compare2:inst122
+konveer:inst12|lpm_compare2:inst124
+konveer:inst12|lpm_compare2:inst123
+konveer:inst12|lpm_compare2:inst125
+}
+# lmf
+|alerta|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+lpm_compare
+# storage
+db|kursach.(64).cnf
+db|kursach.(64).cnf
+# case_insensitive
+# source_file
+|alerta|quartus|libraries|megafunctions|lpm_compare.tdf
+c970ec48c9d7d7f713d7075c8e1a6b2
+7
+# user_parameter {
+lpm_width
+4
+PARAMETER_SIGNED_DEC
+USR
+LPM_REPRESENTATION
+UNSIGNED
+PARAMETER_UNKNOWN
+USR
+LPM_PIPELINE
+0
+PARAMETER_UNKNOWN
+DEF
+CHAIN_SIZE
+8
+PARAMETER_UNKNOWN
+DEF
+ONE_INPUT_IS_CONSTANT
+NO
+PARAMETER_UNKNOWN
+DEF
+CARRY_CHAIN
+MANUAL
+PARAMETER_UNKNOWN
+USR
+CASCADE_CHAIN
+MANUAL
+PARAMETER_UNKNOWN
+USR
+CARRY_CHAIN_LENGTH
+48
+CARRY_CHAIN_LENGTH
+USR
+CASCADE_CHAIN_LENGTH
+2
+CASCADE_CHAIN_LENGTH
+USR
+DEVICE_FAMILY
+Stratix II
+PARAMETER_UNKNOWN
+USR
+CBXI_PARAMETER
+cmpr_big
+PARAMETER_UNKNOWN
+USR
+AUTO_CARRY_CHAINS
+ON
+AUTO_CARRY
+USR
+IGNORE_CARRY_BUFFERS
+OFF
+IGNORE_CARRY
+USR
+AUTO_CASCADE_CHAINS
+ON
+AUTO_CASCADE
+USR
+IGNORE_CASCADE_BUFFERS
+OFF
+IGNORE_CASCADE
+USR
+}
+# used_port {
+datab3
+-1
+3
+datab2
+-1
+3
+datab1
+-1
+3
+datab0
+-1
+3
+dataa3
+-1
+3
+dataa2
+-1
+3
+dataa1
+-1
+3
+dataa0
+-1
+3
+AeB
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_compare2:inst122|lpm_compare:lpm_compare_component
+konveer:inst12|lpm_compare2:inst124|lpm_compare:lpm_compare_component
+konveer:inst12|lpm_compare2:inst123|lpm_compare:lpm_compare_component
+konveer:inst12|lpm_compare2:inst125|lpm_compare:lpm_compare_component
+}
+# macro_sequence
+
+# end
+# entity
+cmpr_big
+# storage
+db|kursach.(65).cnf
+db|kursach.(65).cnf
+# case_insensitive
+# source_file
+db|cmpr_big.tdf
+de4821fb91eabe3aa1bef33fa1c421e
+7
+# used_port {
+datab3
+-1
+3
+datab2
+-1
+3
+datab1
+-1
+3
+datab0
+-1
+3
+dataa3
+-1
+3
+dataa2
+-1
+3
+dataa1
+-1
+3
+dataa0
+-1
+3
+aeb
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_compare2:inst122|lpm_compare:lpm_compare_component|cmpr_big:auto_generated
+konveer:inst12|lpm_compare2:inst124|lpm_compare:lpm_compare_component|cmpr_big:auto_generated
+konveer:inst12|lpm_compare2:inst123|lpm_compare:lpm_compare_component|cmpr_big:auto_generated
+konveer:inst12|lpm_compare2:inst125|lpm_compare:lpm_compare_component|cmpr_big:auto_generated
+}
+# macro_sequence
+
+# end
+# entity
+lpm_dff4
+# storage
+db|kursach.(66).cnf
+db|kursach.(66).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+lpm_dff4.vhd
+7af7ef2532bda859fa519dfe2bddaa3a
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+konveer:inst12|lpm_dff4:inst52
+konveer:inst12|lpm_dff4:inst107
+konveer:inst12|lpm_dff4:inst106
+konveer:inst12|lpm_dff4:inst129
+konveer:inst12|lpm_dff4:inst53
+}
+# lmf
+|alerta|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+lpm_ff
+# storage
+db|kursach.(67).cnf
+db|kursach.(67).cnf
+# case_insensitive
+# source_file
+|alerta|quartus|libraries|megafunctions|lpm_ff.tdf
+46b042d3fd5eb2f17a9dfd3891afd1a
+7
+# user_parameter {
+LPM_WIDTH
+4
+PARAMETER_SIGNED_DEC
+USR
+LPM_AVALUE
+UNUSED
+PARAMETER_UNKNOWN
+DEF
+LPM_SVALUE
+UNUSED
+PARAMETER_UNKNOWN
+DEF
+LPM_FFTYPE
+DFF
+PARAMETER_UNKNOWN
+USR
+DEVICE_FAMILY
+Stratix II
+PARAMETER_UNKNOWN
+USR
+CBXI_PARAMETER
+NOTHING
+PARAMETER_UNKNOWN
+DEF
+AUTO_CARRY_CHAINS
+ON
+AUTO_CARRY
+USR
+IGNORE_CARRY_BUFFERS
+OFF
+IGNORE_CARRY
+USR
+AUTO_CASCADE_CHAINS
+ON
+AUTO_CASCADE
+USR
+IGNORE_CASCADE_BUFFERS
+OFF
+IGNORE_CASCADE
+USR
+}
+# used_port {
+q3
+-1
+3
+q2
+-1
+3
+q1
+-1
+3
+q0
+-1
+3
+enable
+-1
+3
+data3
+-1
+3
+data2
+-1
+3
+data1
+-1
+3
+data0
+-1
+3
+clock
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_dff4:inst52|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff4:inst107|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff4:inst106|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff4:inst129|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff4:inst53|lpm_ff:lpm_ff_component
+}
+# macro_sequence
+
+# end
+# entity
+lpm_decode1
+# storage
+db|kursach.(68).cnf
+db|kursach.(68).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+lpm_decode1.vhd
+127b84a804aa823cf4ba223344c4827
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+konveer:inst12|lpm_decode1:inst65
+konveer:inst12|lpm_decode1:inst17
+konveer:inst12|lpm_decode1:inst101
+}
+# lmf
+|alerta|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+lpm_decode
+# storage
+db|kursach.(69).cnf
+db|kursach.(69).cnf
+# case_insensitive
+# source_file
+|alerta|quartus|libraries|megafunctions|lpm_decode.tdf
+bfce37ee9af3768dda7316c867798b
+7
+# user_parameter {
+LPM_WIDTH
+4
+PARAMETER_SIGNED_DEC
+USR
+LPM_DECODES
+16
+PARAMETER_SIGNED_DEC
+USR
+LPM_PIPELINE
+0
+PARAMETER_UNKNOWN
+DEF
+CASCADE_CHAIN
+MANUAL
+PARAMETER_UNKNOWN
+USR
+DEVICE_FAMILY
+Stratix II
+PARAMETER_UNKNOWN
+USR
+CBXI_PARAMETER
+decode_ltf
+PARAMETER_UNKNOWN
+USR
+AUTO_CARRY_CHAINS
+ON
+AUTO_CARRY
+USR
+IGNORE_CARRY_BUFFERS
+OFF
+IGNORE_CARRY
+USR
+AUTO_CASCADE_CHAINS
+ON
+AUTO_CASCADE
+USR
+IGNORE_CASCADE_BUFFERS
+OFF
+IGNORE_CASCADE
+USR
+}
+# used_port {
+eq9
+-1
+3
+eq8
+-1
+3
+eq7
+-1
+3
+eq6
+-1
+3
+eq5
+-1
+3
+eq4
+-1
+3
+eq3
+-1
+3
+eq2
+-1
+3
+eq15
+-1
+3
+eq14
+-1
+3
+eq13
+-1
+3
+eq12
+-1
+3
+eq11
+-1
+3
+eq10
+-1
+3
+eq1
+-1
+3
+eq0
+-1
+3
+enable
+-1
+3
+data3
+-1
+3
+data2
+-1
+3
+data1
+-1
+3
+data0
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_decode1:inst65|lpm_decode:lpm_decode_component
+konveer:inst12|lpm_decode1:inst17|lpm_decode:lpm_decode_component
+konveer:inst12|lpm_decode1:inst101|lpm_decode:lpm_decode_component
+}
+# macro_sequence
+
+# end
+# entity
+decode_ltf
+# storage
+db|kursach.(70).cnf
+db|kursach.(70).cnf
+# case_insensitive
+# source_file
+db|decode_ltf.tdf
+c86cc97c488a3faf8fe55f9d1154e6c7
+7
+# used_port {
+eq9
+-1
+3
+eq8
+-1
+3
+eq7
+-1
+3
+eq6
+-1
+3
+eq5
+-1
+3
+eq4
+-1
+3
+eq3
+-1
+3
+eq2
+-1
+3
+eq15
+-1
+3
+eq14
+-1
+3
+eq13
+-1
+3
+eq12
+-1
+3
+eq11
+-1
+3
+eq10
+-1
+3
+eq1
+-1
+3
+eq0
+-1
+3
+enable
+-1
+3
+data3
+-1
+3
+data2
+-1
+3
+data1
+-1
+3
+data0
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_decode1:inst65|lpm_decode:lpm_decode_component|decode_ltf:auto_generated
+konveer:inst12|lpm_decode1:inst17|lpm_decode:lpm_decode_component|decode_ltf:auto_generated
+konveer:inst12|lpm_decode1:inst101|lpm_decode:lpm_decode_component|decode_ltf:auto_generated
+}
+# macro_sequence
+
+# end
+# entity
+lpm_compare1
+# storage
+db|kursach.(71).cnf
+db|kursach.(71).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+lpm_compare1.vhd
+c92f35afed31a0813c1cae1b19d56e78
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+konveer:inst12|lpm_compare1:inst54
+}
+# lmf
+|alerta|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+lpm_compare
+# storage
+db|kursach.(72).cnf
+db|kursach.(72).cnf
+# case_insensitive
+# source_file
+|alerta|quartus|libraries|megafunctions|lpm_compare.tdf
+c970ec48c9d7d7f713d7075c8e1a6b2
+7
+# user_parameter {
+lpm_width
+5
+PARAMETER_SIGNED_DEC
+USR
+LPM_REPRESENTATION
+UNSIGNED
+PARAMETER_UNKNOWN
+USR
+LPM_PIPELINE
+0
+PARAMETER_UNKNOWN
+DEF
+CHAIN_SIZE
+8
+PARAMETER_UNKNOWN
+DEF
+ONE_INPUT_IS_CONSTANT
+YES
+PARAMETER_UNKNOWN
+USR
+CARRY_CHAIN
+MANUAL
+PARAMETER_UNKNOWN
+USR
+CASCADE_CHAIN
+MANUAL
+PARAMETER_UNKNOWN
+USR
+CARRY_CHAIN_LENGTH
+48
+CARRY_CHAIN_LENGTH
+USR
+CASCADE_CHAIN_LENGTH
+2
+CASCADE_CHAIN_LENGTH
+USR
+DEVICE_FAMILY
+Stratix II
+PARAMETER_UNKNOWN
+USR
+CBXI_PARAMETER
+cmpr_q8j
+PARAMETER_UNKNOWN
+USR
+AUTO_CARRY_CHAINS
+ON
+AUTO_CARRY
+USR
+IGNORE_CARRY_BUFFERS
+OFF
+IGNORE_CARRY
+USR
+AUTO_CASCADE_CHAINS
+ON
+AUTO_CASCADE
+USR
+IGNORE_CASCADE_BUFFERS
+OFF
+IGNORE_CASCADE
+USR
+}
+# used_port {
+dataa4
+-1
+3
+dataa3
+-1
+3
+dataa2
+-1
+3
+dataa1
+-1
+3
+dataa0
+-1
+3
+AlB
+-1
+3
+datab4
+-1
+1
+datab2
+-1
+1
+datab1
+-1
+1
+datab3
+-1
+2
+datab0
+-1
+2
+}
+# hierarchies {
+konveer:inst12|lpm_compare1:inst54|lpm_compare:lpm_compare_component
+}
+# macro_sequence
+
+# end
+# entity
+cmpr_q8j
+# storage
+db|kursach.(73).cnf
+db|kursach.(73).cnf
+# case_insensitive
+# source_file
+db|cmpr_q8j.tdf
+b51b8890c168fffe0a0b6d483507679
+7
+# used_port {
+datab4
+-1
+3
+datab3
+-1
+3
+datab2
+-1
+3
+datab1
+-1
+3
+datab0
+-1
+3
+dataa4
+-1
+3
+dataa3
+-1
+3
+dataa2
+-1
+3
+dataa1
+-1
+3
+dataa0
+-1
+3
+alb
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_compare1:inst54|lpm_compare:lpm_compare_component|cmpr_q8j:auto_generated
+}
+# macro_sequence
+
+# end
+# entity
+lpm_constant2
+# storage
+db|kursach.(74).cnf
+db|kursach.(74).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+lpm_constant2.vhd
+e5309d982833e58e7469693512b8599
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+konveer:inst12|lpm_constant2:inst112
+}
+# lmf
+|alerta|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+lpm_constant
+# storage
+db|kursach.(75).cnf
+db|kursach.(75).cnf
+# case_insensitive
+# source_file
+|alerta|quartus|libraries|megafunctions|lpm_constant.tdf
+eb6dfbf4944a55f9ca719d52154e40e2
+7
+# user_parameter {
+LPM_WIDTH
+8
+PARAMETER_SIGNED_DEC
+USR
+LPM_CVALUE
+1
+PARAMETER_SIGNED_DEC
+USR
+ENABLE_RUNTIME_MOD
+NO
+PARAMETER_UNKNOWN
+USR
+CBXI_PARAMETER
+lpm_constant_rf6
+PARAMETER_UNKNOWN
+USR
+}
+# used_port {
+result7
+-1
+3
+result6
+-1
+3
+result5
+-1
+3
+result4
+-1
+3
+result3
+-1
+3
+result2
+-1
+3
+result1
+-1
+3
+result0
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_constant2:inst112|lpm_constant:lpm_constant_component
+}
+# macro_sequence
+
+# end
+# entity
+lpm_clshift0
+# storage
+db|kursach.(76).cnf
+db|kursach.(76).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+lpm_clshift0.vhd
+a75e22f186dba3f7e2f52bbf422e
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+konveer:inst12|lpm_clshift0:inst113
+}
+# lmf
+|alerta|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+lpm_clshift
+# storage
+db|kursach.(77).cnf
+db|kursach.(77).cnf
+# case_insensitive
+# source_file
+|alerta|quartus|libraries|megafunctions|lpm_clshift.tdf
+89561ba8d0cb7cce575c9c72d6ad22ad
+7
+# user_parameter {
+LPM_PIPELINE
+0
+PARAMETER_UNKNOWN
+DEF
+LPM_SHIFTTYPE
+ARITHMETIC
+PARAMETER_UNKNOWN
+USR
+LPM_WIDTH
+8
+PARAMETER_SIGNED_DEC
+USR
+LPM_WIDTHDIST
+3
+PARAMETER_SIGNED_DEC
+USR
+CBXI_PARAMETER
+lpm_clshift_utb
+PARAMETER_UNKNOWN
+USR
+}
+# used_port {
+result7
+-1
+3
+result6
+-1
+3
+result5
+-1
+3
+result4
+-1
+3
+result3
+-1
+3
+result2
+-1
+3
+result1
+-1
+3
+result0
+-1
+3
+distance2
+-1
+3
+distance1
+-1
+3
+distance0
+-1
+3
+data7
+-1
+3
+data6
+-1
+3
+data5
+-1
+3
+data4
+-1
+3
+data3
+-1
+3
+data2
+-1
+3
+data1
+-1
+3
+data0
+-1
+3
+direction
+-1
+1
+}
+# hierarchies {
+konveer:inst12|lpm_clshift0:inst113|lpm_clshift:lpm_clshift_component
+}
+# macro_sequence
+
+# end
+# entity
+lpm_clshift_utb
+# storage
+db|kursach.(78).cnf
+db|kursach.(78).cnf
+# case_insensitive
+# source_file
+db|lpm_clshift_utb.tdf
+aabec1b0b7b1d18c395ca59d5b6c4a9
+7
+# used_port {
+result7
+-1
+3
+result6
+-1
+3
+result5
+-1
+3
+result4
+-1
+3
+result3
+-1
+3
+result2
+-1
+3
+result1
+-1
+3
+result0
+-1
+3
+distance2
+-1
+3
+distance1
+-1
+3
+distance0
+-1
+3
+data7
+-1
+3
+data6
+-1
+3
+data5
+-1
+3
+data4
+-1
+3
+data3
+-1
+3
+data2
+-1
+3
+data1
+-1
+3
+data0
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_clshift0:inst113|lpm_clshift:lpm_clshift_component|lpm_clshift_utb:auto_generated
+}
+# macro_sequence
+
+# end
+# entity
+lpm_xor0
+# storage
+db|kursach.(79).cnf
+db|kursach.(79).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+lpm_xor0.vhd
+cb6fe5af31242941aa5de33ebd7b4fb
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+konveer:inst12|lpm_xor0:inst110
+konveer:inst12|lpm_xor0:inst108
+}
+# lmf
+|alerta|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+LPM_XOR
+# storage
+db|kursach.(80).cnf
+db|kursach.(80).cnf
+# case_insensitive
+# source_file
+|alerta|quartus|libraries|megafunctions|lpm_xor.tdf
+852d3b72c7bdaaddec9bad8f5b2b1
+7
+# user_parameter {
+LPM_WIDTH
+8
+PARAMETER_SIGNED_DEC
+USR
+LPM_SIZE
+2
+PARAMETER_SIGNED_DEC
+USR
+}
+# used_port {
+RESULT7
+-1
+3
+RESULT6
+-1
+3
+RESULT5
+-1
+3
+RESULT4
+-1
+3
+RESULT3
+-1
+3
+RESULT2
+-1
+3
+RESULT1
+-1
+3
+RESULT0
+-1
+3
+DATA1_7
+-1
+3
+DATA1_6
+-1
+3
+DATA1_5
+-1
+3
+DATA1_4
+-1
+3
+DATA1_3
+-1
+3
+DATA1_2
+-1
+3
+DATA1_1
+-1
+3
+DATA1_0
+-1
+3
+DATA0_7
+-1
+3
+DATA0_6
+-1
+3
+DATA0_5
+-1
+3
+DATA0_4
+-1
+3
+DATA0_3
+-1
+3
+DATA0_2
+-1
+3
+DATA0_1
+-1
+3
+DATA0_0
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_xor0:inst110|lpm_xor:lpm_xor_component
+konveer:inst12|lpm_xor0:inst108|lpm_xor:lpm_xor_component
+}
+# macro_sequence
+
+# end
+# entity
+lpm_constant1
+# storage
+db|kursach.(81).cnf
+db|kursach.(81).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+lpm_constant1.vhd
+192d95abf94a2b5a129f8d5fa859ecc7
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+konveer:inst12|lpm_constant1:inst109
+}
+# lmf
+|alerta|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+lpm_constant
+# storage
+db|kursach.(82).cnf
+db|kursach.(82).cnf
+# case_insensitive
+# source_file
+|alerta|quartus|libraries|megafunctions|lpm_constant.tdf
+eb6dfbf4944a55f9ca719d52154e40e2
+7
+# user_parameter {
+LPM_WIDTH
+8
+PARAMETER_SIGNED_DEC
+USR
+LPM_CVALUE
+255
+PARAMETER_SIGNED_DEC
+USR
+ENABLE_RUNTIME_MOD
+NO
+PARAMETER_UNKNOWN
+USR
+CBXI_PARAMETER
+lpm_constant_6j6
+PARAMETER_UNKNOWN
+USR
+}
+# used_port {
+result7
+-1
+3
+result6
+-1
+3
+result5
+-1
+3
+result4
+-1
+3
+result3
+-1
+3
+result2
+-1
+3
+result1
+-1
+3
+result0
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_constant1:inst109|lpm_constant:lpm_constant_component
+}
+# macro_sequence
+
+# end
+# entity
+lpm_counter3
+# storage
+db|kursach.(83).cnf
+db|kursach.(83).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+lpm_counter3.vhd
+98dd5da0621c26330a5bdb2aaa7a380
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+konveer:inst12|lpm_counter3:Instruction_Pointer
+}
+# lmf
+|alerta|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+lpm_counter
+# storage
+db|kursach.(84).cnf
+db|kursach.(84).cnf
+# case_insensitive
+# source_file
+|alerta|quartus|libraries|megafunctions|lpm_counter.tdf
+ea80917e5f6a67b6043b433538e1f4b
+7
+# user_parameter {
+AUTO_CARRY_CHAINS
+ON
+AUTO_CARRY
+USR
+IGNORE_CARRY_BUFFERS
+OFF
+IGNORE_CARRY
+USR
+AUTO_CASCADE_CHAINS
+ON
+AUTO_CASCADE
+USR
+IGNORE_CASCADE_BUFFERS
+OFF
+IGNORE_CASCADE
+USR
+LPM_WIDTH
+10
+PARAMETER_SIGNED_DEC
+USR
+LPM_DIRECTION
+UP
+PARAMETER_UNKNOWN
+USR
+LPM_MODULUS
+0
+PARAMETER_UNKNOWN
+DEF
+LPM_AVALUE
+UNUSED
+PARAMETER_UNKNOWN
+DEF
+LPM_SVALUE
+UNUSED
+PARAMETER_UNKNOWN
+DEF
+LPM_PORT_UPDOWN
+PORT_UNUSED
+PARAMETER_UNKNOWN
+USR
+DEVICE_FAMILY
+Stratix II
+PARAMETER_UNKNOWN
+USR
+CARRY_CHAIN
+MANUAL
+PARAMETER_UNKNOWN
+USR
+CARRY_CHAIN_LENGTH
+48
+CARRY_CHAIN_LENGTH
+USR
+NOT_GATE_PUSH_BACK
+ON
+NOT_GATE_PUSH_BACK
+USR
+CARRY_CNT_EN
+SMART
+PARAMETER_UNKNOWN
+DEF
+LABWIDE_SCLR
+ON
+PARAMETER_UNKNOWN
+DEF
+USE_NEW_VERSION
+TRUE
+PARAMETER_UNKNOWN
+DEF
+CBXI_PARAMETER
+cntr_kmi
+PARAMETER_UNKNOWN
+USR
+}
+# used_port {
+sload
+-1
+3
+q9
+-1
+3
+q8
+-1
+3
+q7
+-1
+3
+q6
+-1
+3
+q5
+-1
+3
+q4
+-1
+3
+q3
+-1
+3
+q2
+-1
+3
+q1
+-1
+3
+q0
+-1
+3
+data9
+-1
+3
+data8
+-1
+3
+data7
+-1
+3
+data6
+-1
+3
+data5
+-1
+3
+data4
+-1
+3
+data3
+-1
+3
+data2
+-1
+3
+data1
+-1
+3
+data0
+-1
+3
+clock
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_counter3:Instruction_Pointer|lpm_counter:lpm_counter_component
+}
+# macro_sequence
+
+# end
+# entity
+cntr_kmi
+# storage
+db|kursach.(85).cnf
+db|kursach.(85).cnf
+# case_insensitive
+# source_file
+db|cntr_kmi.tdf
+ec7896bf6d108baa575a7c4a40333ef7
+7
+# used_port {
+sload
+-1
+3
+q9
+-1
+3
+q8
+-1
+3
+q7
+-1
+3
+q6
+-1
+3
+q5
+-1
+3
+q4
+-1
+3
+q3
+-1
+3
+q2
+-1
+3
+q1
+-1
+3
+q0
+-1
+3
+data9
+-1
+3
+data8
+-1
+3
+data7
+-1
+3
+data6
+-1
+3
+data5
+-1
+3
+data4
+-1
+3
+data3
+-1
+3
+data2
+-1
+3
+data1
+-1
+3
+data0
+-1
+3
+clock
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_counter3:Instruction_Pointer|lpm_counter:lpm_counter_component|cntr_kmi:auto_generated
+}
+# macro_sequence
+
+# end
+# entity
+konveer
+# storage
+db|kursach.(54).cnf
+db|kursach.(54).cnf
+# case_insensitive
+# source_file
+konveer.bdf
+a034c7b1acb8dc6f8f464e859265dfd
 26
 # internal_option {
 BLOCK_DESIGN_NAMING
 AUTO
 }
 # hierarchies {
-cash_com:inst10
+konveer:inst12
+}
+# macro_sequence
+
+# end
+# entity
+kursach
+# storage
+db|kursach.(0).cnf
+db|kursach.(0).cnf
+# case_insensitive
+# source_file
+kursach.bdf
+27311221521e2d98e7a9557591bc11
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+|
 }
 # macro_sequence
 
