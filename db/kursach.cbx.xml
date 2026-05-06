@@ -55,6 +55,7 @@
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst965|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst274|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst355|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|konveer:inst12|lpm_counter4:inst213|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_g1h.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst849|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|konveer:inst12|lpm_decode2:inst175|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_ktf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst949|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>

@@ -1077,9 +1077,27 @@ cash:inst8|lpm_bustri0:inst980
 konveer:inst12|lpm_bustri0:inst116
 konveer:inst12|lpm_bustri0:inst104
 konveer:inst12|lpm_bustri0:inst165
+konveer:inst12|lpm_bustri0:inst146
 konveer:inst12|lpm_bustri0:inst103
 konveer:inst12|lpm_bustri0:inst164
 konveer:inst12|lpm_bustri0:inst173
+konveer:inst12|lpm_bustri0:inst210
+konveer:inst12|lpm_bustri0:inst209
+konveer:inst12|lpm_bustri0:inst181
+konveer:inst12|lpm_bustri0:inst182
+konveer:inst12|lpm_bustri0:inst184
+konveer:inst12|lpm_bustri0:inst188
+konveer:inst12|lpm_bustri0:inst190
+konveer:inst12|lpm_bustri0:inst203
+konveer:inst12|lpm_bustri0:inst206
+konveer:inst12|lpm_bustri0:inst205
+konveer:inst12|lpm_bustri0:inst191
+konveer:inst12|lpm_bustri0:inst189
+konveer:inst12|lpm_bustri0:inst187
+konveer:inst12|lpm_bustri0:inst183
+konveer:inst12|lpm_bustri0:inst180
+konveer:inst12|lpm_bustri0:inst179
+konveer:inst12|lpm_bustri0:inst208
 konveer:inst12|lpm_bustri0:inst174
 konveer:inst12|lpm_bustri0:inst135
 konveer:inst12|lpm_bustri0:inst74
@@ -1354,9 +1372,27 @@ cash:inst8|lpm_bustri0:inst980|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst116|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst104|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst165|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst146|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst103|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst164|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst173|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst210|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst209|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst181|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst182|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst184|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst188|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst190|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst203|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst206|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst205|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst191|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst189|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst187|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst183|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst180|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst179|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst208|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst174|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst135|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst74|lpm_bustri:lpm_bustri_component
@@ -3457,7 +3493,16 @@ cash:inst8|lpm_dff0:inst955
 cash:inst8|lpm_dff0:inst956
 konveer:inst12|lpm_dff0:inst120
 konveer:inst12|lpm_dff0:inst99
+konveer:inst12|lpm_dff0:inst50
 konveer:inst12|lpm_dff0:inst127
+konveer:inst12|lpm_dff0:inst147
+konveer:inst12|lpm_dff0:inst148
+konveer:inst12|lpm_dff0:inst149
+konveer:inst12|lpm_dff0:inst150
+konveer:inst12|lpm_dff0:inst151
+konveer:inst12|lpm_dff0:inst152
+konveer:inst12|lpm_dff0:inst154
+konveer:inst12|lpm_dff0:inst159
 konveer:inst12|lpm_dff0:inst
 konveer:inst12|lpm_dff0:inst9
 konveer:inst12|lpm_dff0:inst10
@@ -3475,7 +3520,6 @@ konveer:inst12|lpm_dff0:inst6
 konveer:inst12|lpm_dff0:inst7
 konveer:inst12|lpm_dff0:inst8
 konveer:inst12|lpm_dff0:inst100
-konveer:inst12|lpm_dff0:inst50
 }
 # lmf
 |alerta|quartus|lmf|maxplus2.lmf
@@ -3722,7 +3766,16 @@ cash:inst8|lpm_dff0:inst955|lpm_ff:lpm_ff_component
 cash:inst8|lpm_dff0:inst956|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst120|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst99|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst50|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst127|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst147|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst148|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst149|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst150|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst151|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst152|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst154|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst159|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst9|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst10|lpm_ff:lpm_ff_component
@@ -3740,7 +3793,6 @@ konveer:inst12|lpm_dff0:inst6|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst7|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst8|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst100|lpm_ff:lpm_ff_component
-konveer:inst12|lpm_dff0:inst50|lpm_ff:lpm_ff_component
 }
 # macro_sequence
 
@@ -7388,10 +7440,11 @@ AUTO_ROM_RECOGNITION
 ON
 }
 # hierarchies {
+konveer:inst12|lpm_dff4:inst106
 konveer:inst12|lpm_dff4:inst52
 konveer:inst12|lpm_dff4:inst107
-konveer:inst12|lpm_dff4:inst106
 konveer:inst12|lpm_dff4:inst129
+konveer:inst12|lpm_dff4:inst145
 konveer:inst12|lpm_dff4:inst53
 }
 # lmf
@@ -7485,10 +7538,11 @@ clock
 3
 }
 # hierarchies {
+konveer:inst12|lpm_dff4:inst106|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff4:inst52|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff4:inst107|lpm_ff:lpm_ff_component
-konveer:inst12|lpm_dff4:inst106|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff4:inst129|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff4:inst145|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff4:inst53|lpm_ff:lpm_ff_component
 }
 # macro_sequence
@@ -8731,46 +8785,6 @@ cash_com:inst10
 
 # end
 # entity
-kursach
-# storage
-db|kursach.(0).cnf
-db|kursach.(0).cnf
-# case_insensitive
-# source_file
-kursach.bdf
-4a1c7193aefea8351bd2ad7f4d77493a
-26
-# internal_option {
-BLOCK_DESIGN_NAMING
-AUTO
-}
-# hierarchies {
-|
-}
-# macro_sequence
-
-# end
-# entity
-konveer
-# storage
-db|kursach.(44).cnf
-db|kursach.(44).cnf
-# case_insensitive
-# source_file
-konveer.bdf
-7fb34059c74f786d8d69d9e55c8a4bc
-26
-# internal_option {
-BLOCK_DESIGN_NAMING
-AUTO
-}
-# hierarchies {
-konveer:inst12
-}
-# macro_sequence
-
-# end
-# entity
 lpm_counter3
 # storage
 db|kursach.(53).cnf
@@ -9052,10 +9066,229 @@ konveer:inst12|lpm_counter3:Instruction_Pointer|lpm_counter:lpm_counter_componen
 
 # end
 # entity
-altsyncram_h861
+kursach
+# storage
+db|kursach.(0).cnf
+db|kursach.(0).cnf
+# case_insensitive
+# source_file
+kursach.bdf
+f89f8876306a2f35d5b74fed1317e
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+|
+}
+# macro_sequence
+
+# end
+# entity
+konveer
+# storage
+db|kursach.(44).cnf
+db|kursach.(44).cnf
+# case_insensitive
+# source_file
+konveer.bdf
+fd40ba5395df82fc9757b8d8c4ca758
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+konveer:inst12
+}
+# macro_sequence
+
+# end
+# entity
+lpm_counter4
 # storage
 db|kursach.(87).cnf
 db|kursach.(87).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+lpm_counter4.vhd
+50109dbb031b2d9b23e13646fcea5
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+konveer:inst12|lpm_counter4:inst213
+}
+# lmf
+|alerta|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+lpm_counter
+# storage
+db|kursach.(88).cnf
+db|kursach.(88).cnf
+# case_insensitive
+# source_file
+|alerta|quartus|libraries|megafunctions|lpm_counter.tdf
+ea80917e5f6a67b6043b433538e1f4b
+7
+# user_parameter {
+AUTO_CARRY_CHAINS
+ON
+AUTO_CARRY
+USR
+IGNORE_CARRY_BUFFERS
+OFF
+IGNORE_CARRY
+USR
+AUTO_CASCADE_CHAINS
+ON
+AUTO_CASCADE
+USR
+IGNORE_CASCADE_BUFFERS
+OFF
+IGNORE_CASCADE
+USR
+LPM_WIDTH
+3
+PARAMETER_SIGNED_DEC
+USR
+LPM_DIRECTION
+DEFAULT
+PARAMETER_UNKNOWN
+DEF
+LPM_MODULUS
+0
+PARAMETER_UNKNOWN
+DEF
+LPM_AVALUE
+UNUSED
+PARAMETER_UNKNOWN
+DEF
+LPM_SVALUE
+UNUSED
+PARAMETER_UNKNOWN
+DEF
+LPM_PORT_UPDOWN
+PORT_USED
+PARAMETER_UNKNOWN
+USR
+DEVICE_FAMILY
+Stratix II
+PARAMETER_UNKNOWN
+USR
+CARRY_CHAIN
+MANUAL
+PARAMETER_UNKNOWN
+USR
+CARRY_CHAIN_LENGTH
+48
+CARRY_CHAIN_LENGTH
+USR
+NOT_GATE_PUSH_BACK
+ON
+NOT_GATE_PUSH_BACK
+USR
+CARRY_CNT_EN
+SMART
+PARAMETER_UNKNOWN
+DEF
+LABWIDE_SCLR
+ON
+PARAMETER_UNKNOWN
+DEF
+USE_NEW_VERSION
+TRUE
+PARAMETER_UNKNOWN
+DEF
+CBXI_PARAMETER
+cntr_g1h
+PARAMETER_UNKNOWN
+USR
+}
+# used_port {
+updown
+-1
+3
+q2
+-1
+3
+q1
+-1
+3
+q0
+-1
+3
+clock
+-1
+3
+clk_en
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_counter4:inst213|lpm_counter:lpm_counter_component
+}
+# macro_sequence
+
+# end
+# entity
+cntr_g1h
+# storage
+db|kursach.(89).cnf
+db|kursach.(89).cnf
+# case_insensitive
+# source_file
+db|cntr_g1h.tdf
+325dd3e3c70bc676c4081da541087c2
+7
+# used_port {
+updown
+-1
+3
+q2
+-1
+3
+q1
+-1
+3
+q0
+-1
+3
+clock
+-1
+3
+clk_en
+-1
+3
+}
+# hierarchies {
+konveer:inst12|lpm_counter4:inst213|lpm_counter:lpm_counter_component|cntr_g1h:auto_generated
+}
+# macro_sequence
+
+# end
+# entity
+altsyncram_h861
+# storage
+db|kursach.(90).cnf
+db|kursach.(90).cnf
 # case_insensitive
 # source_file
 db|altsyncram_h861.tdf
@@ -9197,7 +9430,7 @@ address_a0
 }
 # memory_file {
 rom.hex
-186b637186a2bb50c59d84e650c99d44
+6f871fcc24e04434db6eacb35b8ba521
 }
 # hierarchies {
 lpm_rom0:inst1|altsyncram:altsyncram_component|altsyncram_h861:auto_generated

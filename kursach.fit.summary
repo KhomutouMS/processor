@@ -1,13 +1,13 @@
-Fitter Status : Failed - Wed May 06 19:40:17 2026
+Fitter Status : Failed - Thu May 07 00:53:21 2026
 Quartus II Version : 9.1 Build 222 10/21/2009 SJ Web Edition
 Revision Name : kursach
 Top-level Entity Name : kursach
 Family : Stratix II
 Logic utilization : N/A
-    Combinational ALUTs : 4,575
-    Dedicated logic registers : 5,575
-Total registers : 5575
-Total pins : 993
+    Combinational ALUTs : 4,577
+    Dedicated logic registers : 5,646
+Total registers : 5646
+Total pins : 1,004
 Total virtual pins : 0
 Total block memory bits : 40,960
 DSP block 9-bit elements : 0
