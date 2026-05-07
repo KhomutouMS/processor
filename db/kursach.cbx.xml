@@ -25,6 +25,7 @@
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst165|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst33|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst510|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|konveer:inst12|predskaz:inst67|lpm_decode0:inst2|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst388|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst266|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_decode0:inst35|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
@@ -85,6 +86,7 @@
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst733|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst219|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash_com:inst10|lpm_add_sub0:inst471|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|konveer:inst12|lpm_decode2:inst221|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_ktf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_add_sub1:inst874|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_uph.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst617|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|kursach|cash:inst8|lpm_decode0:inst833|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_5sf.tdf"/>

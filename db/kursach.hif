@@ -1076,11 +1076,8 @@ cash:inst8|lpm_bustri0:inst929
 cash:inst8|lpm_bustri0:inst980
 konveer:inst12|lpm_bustri0:inst116
 konveer:inst12|lpm_bustri0:inst104
-konveer:inst12|lpm_bustri0:inst165
-konveer:inst12|lpm_bustri0:inst146
-konveer:inst12|lpm_bustri0:inst103
-konveer:inst12|lpm_bustri0:inst164
-konveer:inst12|lpm_bustri0:inst173
+konveer:inst12|lpm_bustri0:inst220
+konveer:inst12|lpm_bustri0:inst218
 konveer:inst12|lpm_bustri0:inst210
 konveer:inst12|lpm_bustri0:inst209
 konveer:inst12|lpm_bustri0:inst181
@@ -1099,6 +1096,11 @@ konveer:inst12|lpm_bustri0:inst180
 konveer:inst12|lpm_bustri0:inst179
 konveer:inst12|lpm_bustri0:inst208
 konveer:inst12|lpm_bustri0:inst174
+konveer:inst12|lpm_bustri0:inst173
+konveer:inst12|lpm_bustri0:inst165
+konveer:inst12|lpm_bustri0:inst146
+konveer:inst12|lpm_bustri0:inst103
+konveer:inst12|lpm_bustri0:inst164
 konveer:inst12|lpm_bustri0:inst135
 konveer:inst12|lpm_bustri0:inst74
 konveer:inst12|lpm_bustri0:inst82
@@ -1118,6 +1120,8 @@ konveer:inst12|lpm_bustri0:inst80
 konveer:inst12|lpm_bustri0:inst81
 konveer:inst12|lpm_bustri0:inst111
 konveer:inst12|lpm_bustri0:inst105
+konveer:inst12|lpm_bustri0:inst219
+konveer:inst12|lpm_bustri0:inst192
 konveer:inst12|lpm_bustri0:inst169
 konveer:inst12|lpm_bustri0:inst128
 konveer:inst12|lpm_bustri0:inst126
@@ -1371,11 +1375,8 @@ cash:inst8|lpm_bustri0:inst929|lpm_bustri:lpm_bustri_component
 cash:inst8|lpm_bustri0:inst980|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst116|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst104|lpm_bustri:lpm_bustri_component
-konveer:inst12|lpm_bustri0:inst165|lpm_bustri:lpm_bustri_component
-konveer:inst12|lpm_bustri0:inst146|lpm_bustri:lpm_bustri_component
-konveer:inst12|lpm_bustri0:inst103|lpm_bustri:lpm_bustri_component
-konveer:inst12|lpm_bustri0:inst164|lpm_bustri:lpm_bustri_component
-konveer:inst12|lpm_bustri0:inst173|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst220|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst218|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst210|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst209|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst181|lpm_bustri:lpm_bustri_component
@@ -1394,6 +1395,11 @@ konveer:inst12|lpm_bustri0:inst180|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst179|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst208|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst174|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst173|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst165|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst146|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst103|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst164|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst135|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst74|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst82|lpm_bustri:lpm_bustri_component
@@ -1413,6 +1419,8 @@ konveer:inst12|lpm_bustri0:inst80|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst81|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst111|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst105|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst219|lpm_bustri:lpm_bustri_component
+konveer:inst12|lpm_bustri0:inst192|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst169|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst128|lpm_bustri:lpm_bustri_component
 konveer:inst12|lpm_bustri0:inst126|lpm_bustri:lpm_bustri_component
@@ -2070,6 +2078,14 @@ cash:inst8|lpm_bustri1:inst944
 cash:inst8|lpm_bustri1:inst945
 cash:inst8|lpm_bustri1:inst96
 cash:inst8|lpm_bustri1:inst97
+konveer:inst12|predskaz:inst67|lpm_bustri1:inst7
+konveer:inst12|predskaz:inst67|lpm_bustri1:inst12
+konveer:inst12|predskaz:inst67|lpm_bustri1:inst24
+konveer:inst12|predskaz:inst67|lpm_bustri1:inst27
+konveer:inst12|predskaz:inst67|lpm_bustri1:inst40
+konveer:inst12|predskaz:inst67|lpm_bustri1:inst43
+konveer:inst12|predskaz:inst67|lpm_bustri1:inst46
+konveer:inst12|predskaz:inst67|lpm_bustri1:inst49
 cash_com:inst10|lpm_bustri1:inst61
 cash_com:inst10|lpm_bustri1:inst30
 cash_com:inst10|lpm_bustri1:inst31
@@ -2227,6 +2243,14 @@ cash:inst8|lpm_bustri1:inst944|lpm_bustri:lpm_bustri_component
 cash:inst8|lpm_bustri1:inst945|lpm_bustri:lpm_bustri_component
 cash:inst8|lpm_bustri1:inst96|lpm_bustri:lpm_bustri_component
 cash:inst8|lpm_bustri1:inst97|lpm_bustri:lpm_bustri_component
+konveer:inst12|predskaz:inst67|lpm_bustri1:inst7|lpm_bustri:lpm_bustri_component
+konveer:inst12|predskaz:inst67|lpm_bustri1:inst12|lpm_bustri:lpm_bustri_component
+konveer:inst12|predskaz:inst67|lpm_bustri1:inst24|lpm_bustri:lpm_bustri_component
+konveer:inst12|predskaz:inst67|lpm_bustri1:inst27|lpm_bustri:lpm_bustri_component
+konveer:inst12|predskaz:inst67|lpm_bustri1:inst40|lpm_bustri:lpm_bustri_component
+konveer:inst12|predskaz:inst67|lpm_bustri1:inst43|lpm_bustri:lpm_bustri_component
+konveer:inst12|predskaz:inst67|lpm_bustri1:inst46|lpm_bustri:lpm_bustri_component
+konveer:inst12|predskaz:inst67|lpm_bustri1:inst49|lpm_bustri:lpm_bustri_component
 cash_com:inst10|lpm_bustri1:inst61|lpm_bustri:lpm_bustri_component
 cash_com:inst10|lpm_bustri1:inst30|lpm_bustri:lpm_bustri_component
 cash_com:inst10|lpm_bustri1:inst31|lpm_bustri:lpm_bustri_component
@@ -2337,6 +2361,7 @@ cash:inst8|lpm_decode0:inst914
 cash:inst8|lpm_decode0:inst898
 cash:inst8|lpm_decode0:inst965
 cash:inst8|lpm_decode0:inst949
+konveer:inst12|predskaz:inst67|lpm_decode0:inst2
 cash_com:inst10|lpm_decode0:inst12
 cash_com:inst10|lpm_decode0:inst35
 cash_com:inst10|lpm_decode0:inst13
@@ -2501,6 +2526,7 @@ cash:inst8|lpm_decode0:inst914|lpm_decode:lpm_decode_component
 cash:inst8|lpm_decode0:inst898|lpm_decode:lpm_decode_component
 cash:inst8|lpm_decode0:inst965|lpm_decode:lpm_decode_component
 cash:inst8|lpm_decode0:inst949|lpm_decode:lpm_decode_component
+konveer:inst12|predskaz:inst67|lpm_decode0:inst2|lpm_decode:lpm_decode_component
 cash_com:inst10|lpm_decode0:inst12|lpm_decode:lpm_decode_component
 cash_com:inst10|lpm_decode0:inst35|lpm_decode:lpm_decode_component
 cash_com:inst10|lpm_decode0:inst13|lpm_decode:lpm_decode_component
@@ -2620,6 +2646,7 @@ cash:inst8|lpm_decode0:inst914|lpm_decode:lpm_decode_component|decode_5sf:auto_g
 cash:inst8|lpm_decode0:inst898|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
 cash:inst8|lpm_decode0:inst965|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
 cash:inst8|lpm_decode0:inst949|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
+konveer:inst12|predskaz:inst67|lpm_decode0:inst2|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
 cash_com:inst10|lpm_decode0:inst12|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
 cash_com:inst10|lpm_decode0:inst35|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
 cash_com:inst10|lpm_decode0:inst13|lpm_decode:lpm_decode_component|decode_5sf:auto_generated
@@ -2698,9 +2725,9 @@ cash:inst8|lpm_dff1:inst390
 cash:inst8|lpm_dff1:inst711
 cash:inst8|lpm_dff1:inst827
 cash:inst8|lpm_dff1:inst943
+konveer:inst12|lpm_dff1:inst49
 konveer:inst12|lpm_dff1:inst58
 konveer:inst12|lpm_dff1:inst57
-konveer:inst12|lpm_dff1:inst49
 konveer:inst12|lpm_dff1:inst102
 cash_com:inst10|lpm_dff1:inst29
 cash_com:inst10|lpm_dff1:inst131
@@ -2832,9 +2859,9 @@ cash:inst8|lpm_dff1:inst390|lpm_ff:lpm_ff_component
 cash:inst8|lpm_dff1:inst711|lpm_ff:lpm_ff_component
 cash:inst8|lpm_dff1:inst827|lpm_ff:lpm_ff_component
 cash:inst8|lpm_dff1:inst943|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff1:inst49|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff1:inst58|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff1:inst57|lpm_ff:lpm_ff_component
-konveer:inst12|lpm_dff1:inst49|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff1:inst102|lpm_ff:lpm_ff_component
 cash_com:inst10|lpm_dff1:inst29|lpm_ff:lpm_ff_component
 cash_com:inst10|lpm_dff1:inst131|lpm_ff:lpm_ff_component
@@ -3492,9 +3519,6 @@ cash:inst8|lpm_dff0:inst954
 cash:inst8|lpm_dff0:inst955
 cash:inst8|lpm_dff0:inst956
 konveer:inst12|lpm_dff0:inst120
-konveer:inst12|lpm_dff0:inst99
-konveer:inst12|lpm_dff0:inst50
-konveer:inst12|lpm_dff0:inst127
 konveer:inst12|lpm_dff0:inst147
 konveer:inst12|lpm_dff0:inst148
 konveer:inst12|lpm_dff0:inst149
@@ -3503,6 +3527,9 @@ konveer:inst12|lpm_dff0:inst151
 konveer:inst12|lpm_dff0:inst152
 konveer:inst12|lpm_dff0:inst154
 konveer:inst12|lpm_dff0:inst159
+konveer:inst12|lpm_dff0:inst99
+konveer:inst12|lpm_dff0:inst50
+konveer:inst12|lpm_dff0:inst127
 konveer:inst12|lpm_dff0:inst
 konveer:inst12|lpm_dff0:inst9
 konveer:inst12|lpm_dff0:inst10
@@ -3765,9 +3792,6 @@ cash:inst8|lpm_dff0:inst954|lpm_ff:lpm_ff_component
 cash:inst8|lpm_dff0:inst955|lpm_ff:lpm_ff_component
 cash:inst8|lpm_dff0:inst956|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst120|lpm_ff:lpm_ff_component
-konveer:inst12|lpm_dff0:inst99|lpm_ff:lpm_ff_component
-konveer:inst12|lpm_dff0:inst50|lpm_ff:lpm_ff_component
-konveer:inst12|lpm_dff0:inst127|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst147|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst148|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst149|lpm_ff:lpm_ff_component
@@ -3776,6 +3800,9 @@ konveer:inst12|lpm_dff0:inst151|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst152|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst154|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst159|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst99|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst50|lpm_ff:lpm_ff_component
+konveer:inst12|lpm_dff0:inst127|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst9|lpm_ff:lpm_ff_component
 konveer:inst12|lpm_dff0:inst10|lpm_ff:lpm_ff_component
@@ -6605,10 +6632,11 @@ ON
 }
 # hierarchies {
 konveer:inst12|lpm_decode2:inst171
+konveer:inst12|lpm_decode2:inst172
+konveer:inst12|lpm_decode2:inst221
 konveer:inst12|lpm_decode2:inst136
 konveer:inst12|lpm_decode2:inst175
 konveer:inst12|lpm_decode2:inst153
-konveer:inst12|lpm_decode2:inst172
 }
 # lmf
 |alerta|quartus|lmf|maxplus2.lmf
@@ -6786,10 +6814,11 @@ data0
 }
 # hierarchies {
 konveer:inst12|lpm_decode2:inst171|lpm_decode:lpm_decode_component
+konveer:inst12|lpm_decode2:inst172|lpm_decode:lpm_decode_component
+konveer:inst12|lpm_decode2:inst221|lpm_decode:lpm_decode_component
 konveer:inst12|lpm_decode2:inst136|lpm_decode:lpm_decode_component
 konveer:inst12|lpm_decode2:inst175|lpm_decode:lpm_decode_component
 konveer:inst12|lpm_decode2:inst153|lpm_decode:lpm_decode_component
-konveer:inst12|lpm_decode2:inst172|lpm_decode:lpm_decode_component
 }
 # macro_sequence
 
@@ -6922,10 +6951,11 @@ data0
 }
 # hierarchies {
 konveer:inst12|lpm_decode2:inst171|lpm_decode:lpm_decode_component|decode_ktf:auto_generated
+konveer:inst12|lpm_decode2:inst172|lpm_decode:lpm_decode_component|decode_ktf:auto_generated
+konveer:inst12|lpm_decode2:inst221|lpm_decode:lpm_decode_component|decode_ktf:auto_generated
 konveer:inst12|lpm_decode2:inst136|lpm_decode:lpm_decode_component|decode_ktf:auto_generated
 konveer:inst12|lpm_decode2:inst175|lpm_decode:lpm_decode_component|decode_ktf:auto_generated
 konveer:inst12|lpm_decode2:inst153|lpm_decode:lpm_decode_component|decode_ktf:auto_generated
-konveer:inst12|lpm_decode2:inst172|lpm_decode:lpm_decode_component|decode_ktf:auto_generated
 }
 # macro_sequence
 
@@ -9066,46 +9096,6 @@ konveer:inst12|lpm_counter3:Instruction_Pointer|lpm_counter:lpm_counter_componen
 
 # end
 # entity
-kursach
-# storage
-db|kursach.(0).cnf
-db|kursach.(0).cnf
-# case_insensitive
-# source_file
-kursach.bdf
-f89f8876306a2f35d5b74fed1317e
-26
-# internal_option {
-BLOCK_DESIGN_NAMING
-AUTO
-}
-# hierarchies {
-|
-}
-# macro_sequence
-
-# end
-# entity
-konveer
-# storage
-db|kursach.(44).cnf
-db|kursach.(44).cnf
-# case_insensitive
-# source_file
-konveer.bdf
-fd40ba5395df82fc9757b8d8c4ca758
-26
-# internal_option {
-BLOCK_DESIGN_NAMING
-AUTO
-}
-# hierarchies {
-konveer:inst12
-}
-# macro_sequence
-
-# end
-# entity
 lpm_counter4
 # storage
 db|kursach.(87).cnf
@@ -9285,10 +9275,395 @@ konveer:inst12|lpm_counter4:inst213|lpm_counter:lpm_counter_component|cntr_g1h:a
 
 # end
 # entity
-altsyncram_h861
+konveer
+# storage
+db|kursach.(44).cnf
+db|kursach.(44).cnf
+# case_insensitive
+# source_file
+konveer.bdf
+10263db75473e756cb95afeede1e1dd
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+konveer:inst12
+}
+# macro_sequence
+
+# end
+# entity
+predskaz
 # storage
 db|kursach.(90).cnf
 db|kursach.(90).cnf
+# case_insensitive
+# source_file
+predskaz.bdf
+27f4c832aae0a29456ee02c5f48beec
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+konveer:inst12|predskaz:inst67
+}
+# macro_sequence
+
+# end
+# entity
+lpm_shiftreg0
+# storage
+db|kursach.(91).cnf
+db|kursach.(91).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+lpm_shiftreg0.vhd
+3e207b3bc514b7dc6c8a1c3f92dc989c
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+konveer:inst12|predskaz:inst67|lpm_shiftreg0:inst1
+}
+# lmf
+|alerta|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+lpm_shiftreg
+# storage
+db|kursach.(92).cnf
+db|kursach.(92).cnf
+# case_insensitive
+# source_file
+|alerta|quartus|libraries|megafunctions|lpm_shiftreg.tdf
+823f22a26a352790542bbd44a35dcb1
+7
+# user_parameter {
+LPM_WIDTH
+3
+PARAMETER_SIGNED_DEC
+USR
+LPM_DIRECTION
+LEFT
+PARAMETER_UNKNOWN
+USR
+LPM_AVALUE
+UNUSED
+PARAMETER_UNKNOWN
+DEF
+LPM_SVALUE
+UNUSED
+PARAMETER_UNKNOWN
+DEF
+DEVICE_FAMILY
+Stratix II
+PARAMETER_UNKNOWN
+USR
+AUTO_CARRY_CHAINS
+ON
+AUTO_CARRY
+USR
+IGNORE_CARRY_BUFFERS
+OFF
+IGNORE_CARRY
+USR
+AUTO_CASCADE_CHAINS
+ON
+AUTO_CASCADE
+USR
+IGNORE_CASCADE_BUFFERS
+OFF
+IGNORE_CASCADE
+USR
+}
+# used_port {
+shiftin
+-1
+3
+q2
+-1
+3
+q1
+-1
+3
+q0
+-1
+3
+enable
+-1
+3
+clock
+-1
+3
+}
+# hierarchies {
+konveer:inst12|predskaz:inst67|lpm_shiftreg0:inst1|lpm_shiftreg:lpm_shiftreg_component
+}
+# macro_sequence
+
+# end
+# entity
+lpm_dff5
+# storage
+db|kursach.(93).cnf
+db|kursach.(93).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+lpm_dff5.vhd
+f8f289457679be230e4f38b7f10139c
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+konveer:inst12|predskaz:inst67|lpm_dff5:inst3
+konveer:inst12|predskaz:inst67|lpm_dff5:inst15
+konveer:inst12|predskaz:inst67|lpm_dff5:inst11
+konveer:inst12|predskaz:inst67|lpm_dff5:inst9
+konveer:inst12|predskaz:inst67|lpm_dff5:inst8
+konveer:inst12|predskaz:inst67|lpm_dff5:inst6
+konveer:inst12|predskaz:inst67|lpm_dff5:inst5
+konveer:inst12|predskaz:inst67|lpm_dff5:inst4
+}
+# lmf
+|alerta|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+lpm_ff
+# storage
+db|kursach.(94).cnf
+db|kursach.(94).cnf
+# case_insensitive
+# source_file
+|alerta|quartus|libraries|megafunctions|lpm_ff.tdf
+46b042d3fd5eb2f17a9dfd3891afd1a
+7
+# user_parameter {
+LPM_WIDTH
+2
+PARAMETER_SIGNED_DEC
+USR
+LPM_AVALUE
+UNUSED
+PARAMETER_UNKNOWN
+DEF
+LPM_SVALUE
+UNUSED
+PARAMETER_UNKNOWN
+DEF
+LPM_FFTYPE
+DFF
+PARAMETER_UNKNOWN
+USR
+DEVICE_FAMILY
+Stratix II
+PARAMETER_UNKNOWN
+USR
+CBXI_PARAMETER
+NOTHING
+PARAMETER_UNKNOWN
+DEF
+AUTO_CARRY_CHAINS
+ON
+AUTO_CARRY
+USR
+IGNORE_CARRY_BUFFERS
+OFF
+IGNORE_CARRY
+USR
+AUTO_CASCADE_CHAINS
+ON
+AUTO_CASCADE
+USR
+IGNORE_CASCADE_BUFFERS
+OFF
+IGNORE_CASCADE
+USR
+}
+# used_port {
+q1
+-1
+3
+q0
+-1
+3
+enable
+-1
+3
+data1
+-1
+3
+data0
+-1
+3
+clock
+-1
+3
+}
+# hierarchies {
+konveer:inst12|predskaz:inst67|lpm_dff5:inst3|lpm_ff:lpm_ff_component
+konveer:inst12|predskaz:inst67|lpm_dff5:inst15|lpm_ff:lpm_ff_component
+konveer:inst12|predskaz:inst67|lpm_dff5:inst11|lpm_ff:lpm_ff_component
+konveer:inst12|predskaz:inst67|lpm_dff5:inst9|lpm_ff:lpm_ff_component
+konveer:inst12|predskaz:inst67|lpm_dff5:inst8|lpm_ff:lpm_ff_component
+konveer:inst12|predskaz:inst67|lpm_dff5:inst6|lpm_ff:lpm_ff_component
+konveer:inst12|predskaz:inst67|lpm_dff5:inst5|lpm_ff:lpm_ff_component
+konveer:inst12|predskaz:inst67|lpm_dff5:inst4|lpm_ff:lpm_ff_component
+}
+# macro_sequence
+
+# end
+# entity
+lpm_shiftreg1
+# storage
+db|kursach.(95).cnf
+db|kursach.(95).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+lpm_shiftreg1.vhd
+933b9b21a4fe673770e6b03cca258529
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+konveer:inst12|predskaz:inst67|lpm_shiftreg1:inst
+}
+# lmf
+|alerta|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# entity
+lpm_shiftreg
+# storage
+db|kursach.(96).cnf
+db|kursach.(96).cnf
+# case_insensitive
+# source_file
+|alerta|quartus|libraries|megafunctions|lpm_shiftreg.tdf
+823f22a26a352790542bbd44a35dcb1
+7
+# user_parameter {
+LPM_WIDTH
+2
+PARAMETER_SIGNED_DEC
+USR
+LPM_DIRECTION
+LEFT
+PARAMETER_UNKNOWN
+USR
+LPM_AVALUE
+UNUSED
+PARAMETER_UNKNOWN
+DEF
+LPM_SVALUE
+UNUSED
+PARAMETER_UNKNOWN
+DEF
+DEVICE_FAMILY
+Stratix II
+PARAMETER_UNKNOWN
+USR
+AUTO_CARRY_CHAINS
+ON
+AUTO_CARRY
+USR
+IGNORE_CARRY_BUFFERS
+OFF
+IGNORE_CARRY
+USR
+AUTO_CASCADE_CHAINS
+ON
+AUTO_CASCADE
+USR
+IGNORE_CASCADE_BUFFERS
+OFF
+IGNORE_CASCADE
+USR
+}
+# used_port {
+shiftin
+-1
+3
+q1
+-1
+3
+q0
+-1
+3
+load
+-1
+3
+enable
+-1
+3
+data1
+-1
+3
+data0
+-1
+3
+clock
+-1
+3
+}
+# hierarchies {
+konveer:inst12|predskaz:inst67|lpm_shiftreg1:inst|lpm_shiftreg:lpm_shiftreg_component
+}
+# macro_sequence
+
+# end
+# entity
+altsyncram_h861
+# storage
+db|kursach.(97).cnf
+db|kursach.(97).cnf
 # case_insensitive
 # source_file
 db|altsyncram_h861.tdf
@@ -9430,10 +9805,30 @@ address_a0
 }
 # memory_file {
 rom.hex
-6f871fcc24e04434db6eacb35b8ba521
+dd14e740e5838f605eccf3b060bb9
 }
 # hierarchies {
 lpm_rom0:inst1|altsyncram:altsyncram_component|altsyncram_h861:auto_generated
+}
+# macro_sequence
+
+# end
+# entity
+kursach
+# storage
+db|kursach.(0).cnf
+db|kursach.(0).cnf
+# case_insensitive
+# source_file
+kursach.bdf
+e092ab2ed7ee7192cc59d14bba7f38f
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+|
 }
 # macro_sequence
 
