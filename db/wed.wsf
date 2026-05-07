@@ -8610,11 +8610,11 @@ VECTOR("D:/alerta/quartus/kursach/kursach.vwf")
 VECTOR("d:/alerta/quartus/kursach/db/kursach.sim.cvwf")
 {
 	ZOOM{
-		ZBEGIN = 1057771;
-		ZEND = 1663798;
+		ZBEGIN = 2301705;
+		ZEND = 2907729;
 		NUMERATOR = 1112;
-		DENOMINATOR = 606027;
-		TOP_INDEX = 806;
+		DENOMINATOR = 606024;
+		TOP_INDEX = 0;
 	}
 	CLOCK{
 		PERIOD = 10000;
